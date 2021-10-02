@@ -14,11 +14,11 @@ header:
 ---
 
 
-### Current courses (1/2021)
+### Current courses (Semester 1 [Fall], 2021)
 
-LG 467 [Computers in Linguistics]
+#### LG 467 [Computers in Linguistics]
 
-*Course description*: This 400 undergraduate-level course introduces students to key concepts in computational linguistics/natural language processing. The course covers basic text processing with Python. 
+*Course description*: This undergraduate-level course introduces students to key concepts in computational linguistics/natural language processing. The course covers basic text processing with Python. 
 
 LG 600 Approaches to Linguistics
 
@@ -30,4 +30,4 @@ LG 600 Approaches to Linguistics
 
 ### Past courses 
 
-LG 356 Approaches to Foreign Language Teaching
+LG 356 Approaches to Foreign Language Teaching (syllabus, student evaluation)
