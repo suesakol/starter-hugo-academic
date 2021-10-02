@@ -30,4 +30,6 @@ header:
 
 ### Past courses 
 
-LG 356 Approaches to Foreign Language Teaching (syllabus, student evaluation)
+LG 356 Approaches to Foreign Language Teaching
++ Course syllabus 
++ Student evaluation
