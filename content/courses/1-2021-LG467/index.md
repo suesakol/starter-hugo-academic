@@ -8,7 +8,7 @@ header:
   image: ""
 ---
 
-## Short Description
+## Description
 
 This undergraduate-level course introduces students to key concepts in computational linguistics/natural language processing. The course covers basic text processing with Python. 
 
