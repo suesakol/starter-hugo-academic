@@ -1,5 +1,5 @@
 ---
-title: 2020-S.2 (Spring) LG 356 Approaches to Foreign Language Teaching
+title: (Past) LG 356 Approaches to Foreign Language Teaching
 type: page
 
 # Optional header image (relative to `assets/media/` folder).
