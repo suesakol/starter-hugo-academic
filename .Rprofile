@@ -20,10 +20,4 @@ options(
 )
 
 # fix Hugo version
-options(blogdown.hugo.version = "0.87.0",
-        blogdown.author = "Sakol Suethanapornkul",
-        blogdown.ext = ".Rmd",
-        blogdown.subdir = "post",
-        blogdown.yaml.empty = TRUE,
-        blogdown.new_bundle = TRUE
-        )
+options(blogdown.hugo.version = "0.88.1")
