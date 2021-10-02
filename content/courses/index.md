@@ -6,6 +6,7 @@ reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: True  # Show author profile?
 comments: false  # Show comments?
+type: page
 
 # Optional header image (relative to `assets/media/` folder).
 header:
