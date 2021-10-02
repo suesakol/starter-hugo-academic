@@ -1,5 +1,5 @@
 ---
-title: [2021, Semester 1 (Fall)] LG 467 Computers in Linguistics
+title: 2021-S.1 (Fall) LG 467 Computers in Linguistics
 type: page
 
 # Optional header image (relative to `assets/media/` folder).
