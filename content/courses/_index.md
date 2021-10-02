@@ -1,4 +1,5 @@
 ---
+cms_exclude: true
 title: Courses
 type: page
 view: 2
