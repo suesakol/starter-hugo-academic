@@ -1,11 +1,6 @@
 ---
-
 title: LG 467 Computers in Linguistics
-
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: True  # Show author profile?
-comments: false  # Show comments?
+type: page
 
 # Optional header image (relative to `assets/media/` folder).
 header:
@@ -13,15 +8,17 @@ header:
   image: ""
 ---
 
-{{% callout note %}}
-This page is continuously updated. Check back for new materials.
-{{% /callout %}}
+## Short Description
+
+This undergraduate-level course introduces students to key concepts in computational linguistics/natural language processing. The course covers basic text processing with Python. 
+
+&nbsp;
 
 ## Course information
 
-**Instructor**:       Sakol Suethanapornkul                           **Room**:   Online via Zoom <br>
+**Instructor**:       Sakol Suethanapornkul                         **Room**:   Online via Zoom <br>
 **Email**:              `suesakol@staff.tu.ac.th`                   **Time**:     W 9:30-12:30      <br>
-**Office Hours**:  W & TH from 1 p.m. to 4 p.m.                **Credits**:  3/48 hours
+**Office Hours**:  W & TH from 1 p.m. to 4 p.m.               **Credits**:  3/48 hours
 
 -----
 
