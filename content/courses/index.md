@@ -31,5 +31,5 @@ header:
 ### Past courses 
 
 LG 356 Approaches to Foreign Language Teaching
-+ Course syllabus 
++ {{< staticref "courses/2-2020-356syl.pdf" "newtab" >}}Course syllabus{{< /staticref >}}) 
 + Student evaluation
