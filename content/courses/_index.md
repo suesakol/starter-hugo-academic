@@ -1,9 +1,9 @@
 ---
-header:
-  caption: ""
-  image: ""
 title: Courses
-type: page
+reading_time: false
+profile: true
+share: false
+comments: false
 ---
 
 # Current Courses
