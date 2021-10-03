@@ -1,6 +1,9 @@
 ---
 title: LG 467 Computers in Linguistics
 type: page
+summary: 'This is a short summary'
+date: '2021-07-30'
+lastmod: '2021-10-02'
 
 # Optional header image (relative to `assets/media/` folder).
 header:
