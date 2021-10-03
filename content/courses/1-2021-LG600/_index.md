@@ -8,4 +8,4 @@ header:
   image: ""
 ---
 
-**Description**: This graduate-level introductory course covers major approaches in linguistics such as generative, usage-based, typological-universal linguistics. Course readings include theoretical papers as well as empirical research studies.
+**Description**: This graduate-level introductory course covers major approaches in linguistics such as generative, usage-based, typological-universal linguistics. Course readings include theoretical papers as well as empirical research studies. Course syllabus can be supplied upon request.
