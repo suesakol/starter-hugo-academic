@@ -1,0 +1,16 @@
+---
+title: Past courses
+type: page
+lastmod: '2021-05-30'
+
+# Optional header image (relative to `assets/media/` folder).
+header:
+  caption: ""
+  image: ""
+---
+
+Below are some of the courses I taught:
+
+Semester 2 (Spring), 2020 LG 356 Approaches to Foreign Language Teaching
++ {{< staticref "courses/docs/2-2020-356syl.pdf" "newtab" >}}Course syllabus{{< /staticref >}} 
++ Student evaluation
