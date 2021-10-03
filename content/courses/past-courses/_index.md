@@ -11,6 +11,6 @@ header:
 
 Below are some of the courses I taught:
 
-Semester 2 (Spring), 2020 LG 356 Approaches to Foreign Language Teaching
+- Semester 2 (Spring), 2020 LG 356 Approaches to Foreign Language Teaching
 + {{< staticref "courses/docs/2-2020-356syl.pdf" "newtab" >}}Course syllabus{{< /staticref >}} 
 + Student evaluation
