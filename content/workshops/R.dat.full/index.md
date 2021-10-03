@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-headless: true
+headless: false
 active: true
 view: 3
 
