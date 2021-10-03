@@ -1,5 +1,5 @@
 ---
-title: (Current) LG 600 Approaches to Linguistics
+title: Current: LG 600 Approaches to Linguistics
 type: page
 
 # Optional header image (relative to `assets/media/` folder).

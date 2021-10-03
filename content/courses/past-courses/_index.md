@@ -1,7 +1,7 @@
 ---
 title: Past courses
 type: page
-lastmod: '2021-05-30'
+date: '2021-05-30'
 
 # Optional header image (relative to `assets/media/` folder).
 header:
