@@ -1,5 +1,5 @@
 ---
-title: (Current) LG 467 Computers in Linguistics
+title: LG 467 Computers in Linguistics
 type: page
 
 # Optional header image (relative to `assets/media/` folder).
