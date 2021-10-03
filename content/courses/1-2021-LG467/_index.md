@@ -1,7 +1,7 @@
 ---
 title: LG 467 Computers in Linguistics
 type: page
-summary: 'This is a short summary'
+summary: 'This undergraduate-level course introduces students to key concepts in computational linguistics/natural language processing. The course covers basic text processing with Python.'
 date: '2021-07-30'
 lastmod: '2021-10-02'
 
@@ -11,10 +11,6 @@ header:
   image: ""
 ---
 
-
-**Description**: This undergraduate-level course introduces students to key concepts in computational linguistics/natural language processing. The course covers basic text processing with Python. 
-
------
 
 ## Course information
 
