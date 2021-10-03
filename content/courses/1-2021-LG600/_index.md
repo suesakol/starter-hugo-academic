@@ -1,6 +1,7 @@
 ---
 title: LG 600 Approaches to Linguistics
 type: page
+date: '2021-07-25'
 
 # Optional header image (relative to `assets/media/` folder).
 header:
