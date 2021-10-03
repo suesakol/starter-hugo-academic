@@ -10,3 +10,4 @@ header:
   image: ""
 ---
 
+Please note that ongoing courses are listed at the top of the page.
