@@ -1,6 +1,7 @@
 ---
 title: Past courses
 type: page
+summary: 'A collection of courses taught'
 date: '2021-05-30'
 
 # Optional header image (relative to `assets/media/` folder).
