@@ -16,7 +16,7 @@ header:
 
 **Instructor**:       Sakol Suethanapornkul <br>
 **Email**:              `suesakol@staff.tu.ac.th` <br>
-**Office Hours**:  W & TH from 1 p.m. to 4 p.m.
+**Office Hours**:  W & TH from 1 p.m. to 4 p.m. <br>
 **Room**:   Online via Zoom <br>
 **Time**:     W 9:30-12:30      <br>
 **Credits**:  3/48 hours
