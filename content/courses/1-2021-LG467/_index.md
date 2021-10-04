@@ -14,9 +14,12 @@ header:
 
 ## Course information
 
-**Instructor**:       Sakol Suethanapornkul                         **Room**:   Online via Zoom <br>
-**Email**:              `suesakol@staff.tu.ac.th`                   **Time**:     W 9:30-12:30      <br>
-**Office Hours**:  W & TH from 1 p.m. to 4 p.m.               **Credits**:  3/48 hours
+**Instructor**:       Sakol Suethanapornkul 
+**Email**:              `suesakol@staff.tu.ac.th`
+**Office Hours**:  W & TH from 1 p.m. to 4 p.m.
+**Room**:   Online via Zoom <br>
+**Time**:     W 9:30-12:30      <br>
+**Credits**:  3/48 hours
 
 -----
 
