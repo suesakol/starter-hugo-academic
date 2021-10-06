@@ -5,7 +5,9 @@ date: '2021-09-30'
 lastmod: '2021-10-02'
 ---
 
-My current research projects focus on a connection between distributional information to which sequential bilinguals/second language (L2) users are exposed and their variable L2 knowledge. A sample of current projects are as follows:
+My current projects focus on a connection between distributional information to which sequential bilinguals/second language (L2) users are exposed and their variable L2 knowledge. A sample of current projects are as follows:
+
+----
 
 #### English permissive constructions
 **Collaborator**: Sarut Supasiraprapa               <br>
