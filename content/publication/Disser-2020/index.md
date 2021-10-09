@@ -34,9 +34,11 @@ These findings suggest that adaptation to distributional patterns of a novel lan
 summary: ''
 
 tags:
-  - Meta analysis
-  - Cognition Hypothesis
-  - Task-based language teaching
+  - Adaptation
+  - Second language learning 
+  - Bayesian multilevel models
+  - Linguistic transfer
+  - Statistical learning
   
 featured: false
 
