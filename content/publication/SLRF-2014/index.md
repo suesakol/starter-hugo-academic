@@ -9,7 +9,7 @@ doi: ''
 
 
 
-publication: "Selected Proceedings of the 2012 Second Language Research Forum"
+publication: "In R. T. Miller et al. (Eds.), *Selected Proceedings of the 2012 Second Language Research Forum*, 181--192"
 publication_short: ''
 
 
