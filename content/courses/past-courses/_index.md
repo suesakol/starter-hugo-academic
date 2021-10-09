@@ -16,4 +16,4 @@ Below are some of the courses I taught:
 
 - LG 356 Approaches to Foreign Language Teaching (2020, Spring)
   - {{< staticref "courses/docs/2-2020-356syl.pdf" "newtab" >}}Course syllabus{{< /staticref >}} 
-  - Student evaluation
+  - {{< staticref "courses/docs/2-2020-356eval.pdf" "newtab" >}}Student evaluation{{< /staticref >}} 
