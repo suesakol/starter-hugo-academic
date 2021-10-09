@@ -10,7 +10,7 @@ doi: "https://doi.org/10.1111/lang.12008"
 
 
 
-publication: "*Language Learning, 63*"
+publication: "*Language Learning*, *63*, 330--367"
 publication_short: ''
 
 # Publication type.
