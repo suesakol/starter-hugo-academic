@@ -1,52 +1,52 @@
 ---
-title: "An example journal article"
+title: "The Cognition Hypothesis: A synthesis and meta-analysis of research on second language task complexity"
 
 authors:
+- Daniel O. Jackson
 - admin
 
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2021-06-10"
+doi: "https://doi.org/10.1111/lang.12008"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+
+
+publication: "*Language Learning, 63*"
+publication_short: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
 
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication_types: 
+- 2
+publishDate: "2013-04-05"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: "This study employed synthetic and meta-analytic techniques to review the literature on the Cognition Hypothesis, which predicts that increasing task complexity influences the quality of second language production. Based on 8 inclusion criteria, 17 published studies were synthesized according to key features. A subset of these studies (k = 9) was also meta-analyzed to investigate the overall effects of raising resource-directing task demands on learner output during monologic tasks. The synthesis of 17 primary studies revealed an assortment of treatments and measures. Among the 9 comparable studies, the meta-analysis uncovered small positive effects for accuracy and small negative effects for fluency. This lends support to the Cognition Hypothesis; however, the present study also disconfirms predictions regarding syntactic complexity. Implications for research and pedagogy are discussed.""
+
+
+summary: ''
 
 tags:
-- Source Themes
+  - Meta analysis
+  - Cognition Hypothesis
+  - Task-based language teaching
+  
 featured: false
 
+
+
 # links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/lang.12008'
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -55,20 +55,21 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 
+
+
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
+
+
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
