@@ -5,7 +5,7 @@ authors:
 - Daniel O. Jackson
 - admin
 
-date: "2014-06-10"
+date: "2013-06-10"
 doi: "https://doi.org/10.1111/lang.12008"
 
 
@@ -38,7 +38,7 @@ featured: false
 
 
 # links:
-url_pdf: ''
+url_pdf: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/lang.12008'
 url_code: ''
 url_dataset: ''
 url_poster: ''
