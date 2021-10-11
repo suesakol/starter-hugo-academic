@@ -56,6 +56,6 @@ superuser: true
 title: Sakol Suethanapornkul
 ---
 
-I am a linguist and a quantitative researcher. Currently, I work at the Department of English and Linguistics at Thammasat University, Thailand. My research investigates issues related to probabilistic statistical information that bi/multilingual speakers recruit in second (L2) or additional language (Ln) processing and learning. Using experimental and corpus-based methods, my research seeks to understand how statistical information of language guides online processing and shapes long-term representation of linguistic constructions in bi/multilinguals. I teach courses at both undergraduate and graduate levels. 
+I am a linguist and a quantitative researcher. My research investigates issues related to probabilistic statistical information that bi/multilingual speakers recruit in second (L2) or additional language (Ln) processing and learning. Using experimental and corpus-based methods, my research seeks to understand how statistical information of language guides online processing and shapes long-term representation of linguistic constructions in bi/multilinguals. I am comfortable with both frequentist and Bayesian data analyses and have solid background in R and Python. Currently, I work at the Department of English and Linguistics at Thammasat University, Thailand, where I teach courses at both undergraduate and graduate levels. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Sakol_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
