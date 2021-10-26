@@ -29,6 +29,9 @@ pos_tag(word_tokenize("A man needs a woman like a fish needs water."))
 # ('woman', 'NN'), ('like', 'IN'), ('a', 'DT'), ('fish', 'JJ'), 
 # ('needs', 'NNS'), ('water', 'NN'), ('.', '.')]
 
+pos_tag(word_tokenize("come, little red riding hood, here is a piece of cake and a bottle of wine."))
+pos_tag(word_tokenize("little red riding hood did not know what a wicked creature he was"))
+
 
 
 # Code 8.3
