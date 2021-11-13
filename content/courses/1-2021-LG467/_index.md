@@ -144,7 +144,7 @@ In this course, I assign grades based on how well students perform. The grading 
 |  14  | 11/10/21  | Mental Health Week <br>                                                                                                     Relax, meditate, and catch up on your sleep! | :heart: |   No assignment                   |
 |  15  | 11/17/21  | Syntactic parsing <br>                                                                                                        [{{% staticref "467LC_2021/Slides/LG467-12.pdf" %}}Parsing (2){{% /staticref %}}] <br>                                        [Python code: {{% staticref "467LC_2021/Scripts/CL12.py" %}}CL12.py{{% /staticref %}}]                                                                             | [J & M Ch. 14](https://web.stanford.edu/~jurafsky/slp3/14.pdf)<br>                                                             (Secs. 14.1-14.3)                                                                                                                      | {{% staticref "467LC_2021/HW/Exercise5.py"                                                                                     %}}Exercise 5{{% /staticref %}}: Dependency      
                                                                                                               |
-|  16  | 11/24/21  | Biases in NLP & looking ahead        |          |                                        |
+|  16  | 11/24/21  | Biases in NLP & looking ahead        |          | No assignment                          |
 
 &nbsp;
 
