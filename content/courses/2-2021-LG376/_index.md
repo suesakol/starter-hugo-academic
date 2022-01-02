@@ -11,7 +11,7 @@ header:
   image: ""
 ---
 
-
+-----
 **Instructor**:       Sakol Suethanapornkul                 <br>
 **Email**:              `suesakol@staff.tu.ac.th`           <br>
 **Virtual office hours**:  TU & TH from 1 p.m. to 4 p.m.    <br>
@@ -41,13 +41,18 @@ Multilingualism, the knowledge and use of more than one language by individuals 
 
 ## Course Objectives
 By the end of this course, you should be able to do the following:
-1. identify major themes, questions, issues, and hypotheses in SLA
+1. identify major themes, questions, issues, and hypotheses in SLA;
+2. summarize, synthesize, and evaluate reports of SLA research;
+3. replicate an existing study in SLA and report on the project's findings; and
+4. improve and refine their scholarly writing and presentation skills.
 
 &nbsp;
 
 
 ## Classroom-based Expectations
-1. **Collaboration is encouraged.** Students are strongly encouraged to collaborate on their assignments. However, each student must submit their own original work (both homework assignments and programming exercises). Additionally, students who have worked with their friends must acknowledge their collaboration in their submission, unless stated otherwise in the assignment. 
+1. **Attend class and participate in class discussions** 
+- Attendance is required at **all** classes.
+- Participation is crucial to the educational effectiveness of the course.
 
 2. **Timely submission of assignments is expected.** All work must be submitted before the due date as stated on the syllabus. I have the right to refuse acceptance of any late assignment. Please communicate with me early if you anticipate having trouble completing any assignment in a timely manner.
 
