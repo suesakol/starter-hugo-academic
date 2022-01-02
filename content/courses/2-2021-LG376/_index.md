@@ -104,10 +104,10 @@ In this course, I assign grades based on how well students perform. The grading 
 
 ### Grade breakdown:
 
-|  Requirements              | Percent      | Points                       | Note    |
+|  Requirements              | Percent      | Points                       | Note             |
 |:---------------------------|:------------:|:-----------------------------|:-------------------------------------------|
-| Homework assignments       | 50%          | 10 points each, 6 in total   |                                            |
-| Programming exercises      | 40%          | 10 points each, 5-6 planned  | Exercise with lowest mark dropped[^1]      |
+| Participation              | 10%          |                              |                                            |
+| Study synopses             | 20%          | 10 points each,2 in total    |                  |
 | Participation              | 5%           |                              |                                            |
 | Attendance                 | 5%           |                              | Up to one unexcused absence allowed        |
 
@@ -127,7 +127,7 @@ In this course, I assign grades based on how well students perform. The grading 
 
 
 
-## Class Schedule[^2]
+## Class Schedule
 
 |Weeks |  Dates       | Topics                               | Readings    | Assignments                      |
 |----- |:------------:|:-------------------------------------|-------------|-------------------------------   |
@@ -148,20 +148,6 @@ In this course, I assign grades based on how well students perform. The grading 
 |  15  | 11/17/21  | Syntactic parsing <br>                                                                                                        [{{% staticref "467LC_2021/Slides/LG467-12.pdf" %}}Parsing (2){{% /staticref %}}] <br>                                        [Python code: {{% staticref "467LC_2021/Scripts/CL12.py" %}}CL12.py{{% /staticref %}}]                                                                             | [J & M Ch. 14](https://web.stanford.edu/~jurafsky/slp3/14.pdf)<br>                                                             (Secs. 14.1-14.3)                                                                                                                      | {{% staticref "467LC_2021/HW/Exercise5.py"                                                                                     %}}Exercise 5{{% /staticref %}}: Dependency  |
 |  16  | 11/24/21  | Biases in NLP & looking ahead <br>                                                                                             [{{% staticref "467LC_2021/Slides/LG467-13.pdf" %}}Wrap-up{{% /staticref %}}]                                                                                   |          | No assignment                          |
 
-&nbsp;
 
 
 
-## Resources
-
-- {{% staticref "467LC_2021/Scripts/News.txt"%}}Business news report (CNBC){{% /staticref %}}
-- {{% staticref "467LC_2021/Scripts/Song.txt"%}}Children's song: If you're happy and you know it{{% /staticref %}}
-
-&nbsp;
-
-
-
-## Footnotes
-
-[^1]: This depends on the total number of exercises. I will communicate with you as soon as possible if there is any change to the calculation of the grading.
-[^2]: Last day of the semester falls on November 27, 2021.
