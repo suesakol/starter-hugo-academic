@@ -46,7 +46,7 @@ By the end of this course, you should be able to do the following:
 3. replicate an existing study in SLA and report on the project's findings; and
 4. improve and refine their scholarly writing and presentation skills.
 
-&nbsp;
+&thinsp;
 
 
 ## Classroom-based Expectations
@@ -66,7 +66,7 @@ By the end of this course, you should be able to do the following:
 4. **Follow APA guidelines for all written assignments.** 
   * The following references and websites provide helpful information on APA style:
 
-&nbsp;
+&thinsp;
 
 
 
