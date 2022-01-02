@@ -12,8 +12,6 @@ header:
 ---
 
 
-## Course information
-
 **Instructor**:       Sakol Suethanapornkul                 <br>
 **Email**:              `suesakol@staff.tu.ac.th`           <br>
 **Virtual office hours**:  TU & TH from 1 p.m. to 4 p.m.    <br>
@@ -25,6 +23,8 @@ header:
 
 
 *The course syllabus provides a general plan for the course; some modifications may be necessary in response to students’ needs and classroom interaction.*
+
+*This course is based on similar courses offered by Dr. Lourdes Ortega at Georgetown University and Dr. Brandon Tullock at University of South Florida.*
 
 &nbsp;
 
@@ -41,9 +41,7 @@ Multilingualism, the knowledge and use of more than one language by individuals 
 
 ## Course Objectives
 By the end of this course, you should be able to do the following:
-1. demonstrate a basic understanding of how computers work with natural languages and support language-related tasks;
-2. recognize and describe key concepts in CL/NLP behind current real-world applications; and
-3. write programs in Python to manipulate and analyze language data
+1. identify major themes, questions, issues, and hypotheses in SLA
 
 &nbsp;
 
