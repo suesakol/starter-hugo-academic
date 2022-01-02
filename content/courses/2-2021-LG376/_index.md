@@ -24,7 +24,7 @@ header:
 
 *The course syllabus provides a general plan for the course; some modifications may be necessary in response to students’ needs and classroom interaction.*
 
-*This course is based on similar courses offered by Dr. Lourdes Ortega and Dr. Brandon Tullock at Georgetown University and University of South Florida, respectively.*
+*This course is based on similar courses taught by Dr. Lourdes Ortega at Georgetown University and Dr. Brandon Tullock at University of South Florida.*
 
 &nbsp;
 
@@ -33,7 +33,7 @@ header:
 ## Course Description
 ทฤษฎีและแนวคิดในการรับภาษาที่สอง กระบวนการรับภาษาที่สอง ปัจจัยต่างๆ ที่มีอิทธิพลต่อผลสัมฤทธิ์ของผู้เรียนที่แตกต่างกัน
 
-Multilingualism, the knowledge and use of more than one language by individuals and groups, is as old as humanity itself. Second language acquisition (SLA) is the scholarly field that investigates the human capacity to learn languages other than the first in late childhood, adolescence, and adulthood. In this course, we will examine various sources of influences on the learning of additional languages later in life. These include age, crosslinguistic influence, the linguistic environment, cognition, the development of learner language, and motivation and affect.
+Multilingualism, the knowledge and use of more than one language by individuals and groups, is as old as humanity itself. Second language acquisition (SLA) is the scholarly field that investigates the human capacity to learn languages other than the first in late childhood, adolescence, and adulthood. In this course, we will examine various sources of influences on the learning of additional languages later in life. These include age, crosslinguistic influence, the linguistic environment, cognition, the development of learner language, and motivation and affect. As a prerequisite, successful completion of LG 211 Introduction to Linguistics (with C or above) is required.
 
 &nbsp;
 
@@ -46,7 +46,8 @@ By the end of this course, you should be able to do the following:
 3. replicate an existing study in SLA and report on the project's findings; and
 4. improve and refine their scholarly writing and presentation skills.
 
-&thinsp;
+&nbsp;
+
 
 
 ## Classroom-based Expectations
@@ -70,10 +71,7 @@ By the end of this course, you should be able to do the following:
     + [APA style and grammar guidelines](https://apastyle.apa.org/style-grammar-guidelines)
     + [OWL's APA guidelines](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html)
 
-
-
-## Prerequisites
-Successful completion of LG 211 Introduction to Linguistics (with C or above) is required.
+&nbsp;
 
 
 
@@ -86,6 +84,8 @@ Course management is done through **this course website** and **Microsoft Teams*
 2. De Houwer, A. (2021). *Bilingual development in childhood*. Cambridge: Cambridge University Press [DH for short]
 
 Additional readings will be made available on Microsoft Teams.
+
+&nbsp;
 
 
 
