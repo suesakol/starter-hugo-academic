@@ -1,5 +1,5 @@
 ---
-title: LG 356 Second Language Acquisition
+title: LG 376 Second Language Acquisition
 type: page
 summary: 'This undergraduate-level course introduces students to key concepts in computational linguistics/natural language processing. The course covers basic text processing with Python.'
 date: '2021-07-30'
