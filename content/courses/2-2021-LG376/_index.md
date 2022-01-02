@@ -51,16 +51,20 @@ By the end of this course, you should be able to do the following:
 
 ## Classroom-based Expectations
 1. **Attend class and participate in class discussions** 
-    * Attendance is required at **all** classes.
-    * Participation is crucial to the educational effectiveness of the course.
-    * You are responsible for the materials covered and homework assigned during any absence.
+  * Attendance is required at **all** classes.
+  * Participation is crucial to the educational effectiveness of the course.
+  * You are responsible for the materials covered and homework assigned during any absence.
 
 2. **Complete all readings and assignments on time.** 
-    * You are expected to compelte the readings **before** each class meeting so that you will be prepared to participate.
+  * You are expected to compete the readings **before** each class meeting so that you will be prepared to participate in group work and discussions. 
+  * You are also expected to submit each assignment or homework punctually.
+  * Only in medical or personal emergencies will late work be accepted. Communicate with me early if you anticipate having trouble completing any assignment in a timely manner.
 
-3. **Plagiarism is not tolerated.** Plagiarizing other people's work in an assignment results in an automatic zero for that assignment.
+3. **Plagiarism is not tolerated.** 
+  * Plagiarizing other people's work in an assignment results in an automatic zero for that assignment.
 
-4. **Completion of weekly readings before class is critical.** You are expected to complete readings before class and come to class prepared to ask questions and/or participate in class discussion.
+4. **Follow APA guidelines for all written assignments.** 
+  * The following references and websites provide helpful information on APA style:
 
 &nbsp;
 
