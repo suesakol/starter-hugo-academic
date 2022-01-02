@@ -74,23 +74,15 @@ Successful completion of LG 211 Introduction to Linguistics (with C or above) is
 
 
 
+## Course organization
 
-## Textbooks
+Course management is done through **this course website** and **Microsoft Teams**. You can obtain course materials (syllabus, slides, assignments, etc.) from this website. Assignment submissions, class announcements, and grades will be handled through Teams.
+
+### Textbooks
 1. Ortega, L. (Revised version). *Understanding second language acquisition*. [OR for short]
 2. De Houwer, A. (2021). *Bilingual development in childhood*. Cambridge: Cambridge University Press [DH for short]
 
 Additional readings will be made available on Microsoft Teams.
-
-&nbsp;
-
-
-
-## Course organization
-In most cases, each class meeting will have lecture and practice components. During the first half of each class, we will cover topics presented in textbooks (L & C or J & M). As for the other half, you will receive hands-on training with Python and [Natural Language Toolkit (NLTK)](http://www.nltk.org).
-
-Course management is done through **this course website** and **MS Teams**. You can obtain course materials (syllabus, slides, assignments, etc.) from this website. Assignment submissions, class announcements, and grades will be handled through MS Teams.
-
-&nbsp;
 
 
 
