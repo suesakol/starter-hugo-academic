@@ -1,5 +1,5 @@
 ---
-title: LG 467 Computers in Linguistics
+title: LG 467 Computers in Linguistics (2021, Fall)
 type: page
 summary: 'This undergraduate-level course introduces students to key concepts in computational linguistics/natural language processing. The course covers basic text processing with Python.'
 date: '2021-07-30'
