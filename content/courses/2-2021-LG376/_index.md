@@ -67,14 +67,11 @@ By the end of this course, you should be able to do the following:
   * The following references and websites provide helpful information on APA style:
   * American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th edition). Washington, DC: American Psychological Association.
 
-&thinsp;
 
 
-<pre>
 ## Prerequisites
 Successful completion of LG 211 Introduction to Linguistics (with C or above) is required.
 
-</pre>
 
 
 
