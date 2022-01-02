@@ -64,8 +64,11 @@ By the end of this course, you should be able to do the following:
   * Plagiarizing other people's work in an assignment results in an automatic zero for that assignment.
 
 4. **Follow APA guidelines for all written assignments.** 
-  * The following references and websites provide helpful information on APA style:
+  * The following resources provide helpful information on APA style:
   * American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th edition). Washington, DC: American Psychological Association.
+  * Websites:
+    + [APA style and grammar guidelines](https://apastyle.apa.org/style-grammar-guidelines)
+    + [OWL's APA guidelines](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html)
 
 
 
