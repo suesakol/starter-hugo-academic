@@ -94,10 +94,12 @@ Additional readings will be made available on Microsoft Teams.
 ### Grading scale:
 In this course, I assign grades based on how well students perform. The grading scheme outlines key letter grades:
 
-|A range       |B range         |C range         |D range             | F                 | 
-|:-------------|:---------------|:---------------|:-------------------|:------------------|
-|A = 85-100%   |B+ = 80-84.99   |C+ = 70-74.99   |D+ = 60-64.99       |F = 54.99 or lower |
-|              |B  = 75-79.99   |C  = 65-69.99   |D  = 55-59.99       |                   |  
+|   |Grades       |   |  Points              |  |  |Grades       |  |  Points              | 
+|---|:------------|---|:---------------------|--|--|:------------|--|:---------------------|
+|   | A           |   |  85-100%             |  |  | C           |  |  65-69.99            |
+|   | B+          |   |  80-84.99            |  |  | D+          |  |  60-64.99            |
+|   | B           |   |  75-79.99            |  |  | D           |  |  55-59.99            |
+|   | C+          |   |  70-74.99            |  |  | F           |  |  0-54.99             |
 
 
 ### Grade breakdown:
@@ -115,11 +117,14 @@ In this course, I assign grades based on how well students perform. The grading 
 ### Assignment descriptions:
 
 1. **Participation and attendance (10%)**
-  * The participation grade is determined by my impression of a student's (a) class preparation
+  * The participation grade is determined by my impression of a student's (a) productive and consistent contribution to class discussions and activities (e.g., commenting, questioning, relation to own experience), (b) conscientious collaboration with classmates on work inside and outside of class (e.g., shouldering one's fair share of work during group projects, contributing to and being on task during group discussions), and (c) attendance and punctuality.
+  * There is no such thing as an excused absence in this course, expect in instances where documentation from a health professional or university administrator is provided explaning the absence.
 
-- To receive full credit for attendance and participation, you are expected to come to class on time and engage meaningfully with the class content, including participating in class discussion. 
-
-- You are allowed no more than one unexcused absence without affecting your course grade. This does not include excused absences due to illness or religious observances.
+2. **Two study synopses (20%)**
+  * You will be asked to summarize two empirical studies of SLA/Bilingualism that we read throughout the semester, each in a one-page synopsis format. The goals of this assignment are: (a) to help you read with an eye for the underlying structure of the research reports, (b) to help you deepen your understanding of the readings, and (c) hopefully, to foster this kind of synthetic note-taking strategy in other readings that you do for the final project and other readings in class.
+  
+3. **In-class quizzes (20%)**
+  * You will complete **three (3) open-book quizzes**, interspersed throughout the semester. Each quiz is designed to assess your understanding of reading materials assigned for that particular week and will take place at the beginning of the class, from 9:30 to 9:45 am. Check the schedule for each quiz. Note that no makeup quiz will be given.
 
 
 &nbsp;
