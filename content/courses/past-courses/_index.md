@@ -14,6 +14,10 @@ Below are some of the courses I taught:
 
 **Thammasat University** (2020 to present)
 
+- LG 467 Computers in Linguistics
+  - Course site
+  - Course evaluation
+  
 - LG 356 Approaches to Foreign Language Teaching (2020, Spring)
   - {{< staticref "courses/docs/2-2020-356syl.pdf" "newtab" >}}Course syllabus{{< /staticref >}} 
   - {{< staticref "courses/docs/2-2020-356eval.pdf" "newtab" >}}Student evaluation{{< /staticref >}} 
