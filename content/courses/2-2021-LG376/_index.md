@@ -84,7 +84,7 @@ Successful completion of LG 211 Introduction to Linguistics (with C or above) is
 
 Additional readings will be made available on Microsoft Teams.
 
-&thinsp;
+&nbsp;
 
 
 
