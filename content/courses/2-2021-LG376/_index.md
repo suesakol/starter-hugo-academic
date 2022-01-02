@@ -24,7 +24,7 @@ header:
 
 *The course syllabus provides a general plan for the course; some modifications may be necessary in response to students’ needs and classroom interaction.*
 
-*This course is based on similar courses offered by Dr. Lourdes Ortega at Georgetown University and Dr. Brandon Tullock at University of South Florida.*
+*This course is based on similar courses offered by Dr. Lourdes Ortega and Dr. Brandon Tullock at Georgetown University and University of South Florida, respectively.*
 
 &nbsp;
 
@@ -51,10 +51,12 @@ By the end of this course, you should be able to do the following:
 
 ## Classroom-based Expectations
 1. **Attend class and participate in class discussions** 
-- Attendance is required at **all** classes.
-- Participation is crucial to the educational effectiveness of the course.
+  -- Attendance is required at **all** classes.
+  -- Participation is crucial to the educational effectiveness of the course.
+  -- You are responsible for the materials covered and homework assigned during any absence.
 
-2. **Timely submission of assignments is expected.** All work must be submitted before the due date as stated on the syllabus. I have the right to refuse acceptance of any late assignment. Please communicate with me early if you anticipate having trouble completing any assignment in a timely manner.
+2. **Complete all readings and assignments on time.** 
+  -- You are expected to compelte the readings **before** each class meeting so that you will be prepared to participate.
 
 3. **Plagiarism is not tolerated.** Plagiarizing other people's work in an assignment results in an automatic zero for that assignment.
 
