@@ -94,12 +94,10 @@ Additional readings will be made available on Microsoft Teams.
 ### Grading scale:
 In this course, I assign grades based on how well students perform. The grading scheme outlines key letter grades:
 
-|   |Grades       |   |  Points              |  |  |Grades       |  |  Points              | 
-|---|:------------|---|:---------------------|--|--|:------------|--|:---------------------|
-|   | A           |   |  85-100%             |  |  | C           |  |  65-69.99            |
-|   | B+          |   |  80-84.99            |  |  | D+          |  |  60-64.99            |
-|   | B           |   |  75-79.99            |  |  | D           |  |  55-59.99            |
-|   | C+          |   |  70-74.99            |  |  | F           |  |  0-54.99             |
+|A range       |B range         |C range         |D range             | F                 | 
+|:-------------|:---------------|:---------------|:-------------------|:------------------|
+|A = 85-100%   |B+ = 80-84.99   |C+ = 70-74.99   |D+ = 60-64.99       |F = 54.99 or lower |
+|              |B  = 75-79.99   |C  = 65-69.99   |D  = 55-59.99       |                   |  
 
 
 ### Grade breakdown:
