@@ -70,11 +70,11 @@ By the end of this course, you should be able to do the following:
 &thinsp;
 
 
-
+<pre>
 ## Prerequisites
 Successful completion of LG 211 Introduction to Linguistics (with C or above) is required.
 
-&ensp;
+</pre>
 
 
 
