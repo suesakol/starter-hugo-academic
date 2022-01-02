@@ -65,24 +65,26 @@ By the end of this course, you should be able to do the following:
 
 4. **Follow APA guidelines for all written assignments.** 
   * The following references and websites provide helpful information on APA style:
+  * American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th edition). Washington, DC: American Psychological Association.
 
 &thinsp;
 
 
 
 ## Prerequisites
-Successful completion of LG 211 Introduction to Linguistics (with C or above) is required. You do not need to have any programming experience to complete this course. You are expected, however, to bring your own laptop to class and ensure that it runs either Windows 10 or Mac OS 10.15 (Catalina) or above. Tablets or smartphones are generally not recommended. Talk to me if you need help with the university's laptop assistance program. :smiling_face_with_three_hearts:
+Successful completion of LG 211 Introduction to Linguistics (with C or above) is required.
 
-&nbsp;
+&thinsp;
 
 
 
 ## Textbooks
-1. Dickinson, M. et al. (2013). *Language and computers*. West Sussex, UK: Wiley-Blackwell. [L & C for short]
-2. Jurafsky, D., & Martin, J. H. (2020). *Speech and language processing* ([3rd ed. online draft](https://web.stanford.edu/~jurafsky/slp3/)). [J & M for short]
-3. Bird, S. et al. *Natural language processing with Python* ([online edition for Python 3](https://www.nltk.org/book/)). [NLTK for short]
+1. Ortega, L. (Revised version). *Understanding second language acquisition*. [OR for short]
+2. De Houwer, A. (2021). *Bilingual development in childhood*. Cambridge: Cambridge University Press [DH for short]
 
-&nbsp;
+Additional readings will be made available on Microsoft Teams.
+
+&thinsp;
 
 
 
