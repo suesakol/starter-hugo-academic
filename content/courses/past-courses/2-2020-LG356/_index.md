@@ -12,5 +12,5 @@ header:
 ---
 
 
-{{< staticref "courses/docs/2-2020-356syl.pdf" "newtab" >}}Course syllabus{{< /staticref >}} 
-{{< staticref "courses/docs/2-2020-356eval.pdf" "newtab" >}}Student evaluation{{< /staticref >}} 
+- {{< staticref "courses/docs/2-2020-356syl.pdf" "newtab" >}}Course syllabus{{< /staticref >}} 
+- {{< staticref "courses/docs/2-2020-356eval.pdf" "newtab" >}}Student evaluation{{< /staticref >}} 
