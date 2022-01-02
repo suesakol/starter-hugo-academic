@@ -1,9 +1,9 @@
 ---
 title: LG 376 Second Language Acquisition
 type: page
-summary: 'This undergraduate-level course introduces students to key concepts in computational linguistics/natural language processing. The course covers basic text processing with Python.'
-date: '2021-07-30'
-lastmod: '2021-10-02'
+summary: 'This undergraduate-level course introduces students to major themes, questions, issues, and hypotheses in second language acquisition (SLA).'
+date: '2022-01-02'
+lastmod: '2022-01-02'
 
 # Optional header image (relative to `assets/media/` folder).
 header:
@@ -14,11 +14,11 @@ header:
 
 ## Course information
 
-**Instructor**:       Sakol Suethanapornkul       <br>
-**Email**:              `suesakol@staff.tu.ac.th` <br>
-**Office Hours**:  W & TH from 1 p.m. to 4 p.m.   <br>
-**Room**:             Online via Zoom             <br>
-**Time**:               W 9:30-12:30              <br>
+**Instructor**:       Sakol Suethanapornkul                 <br>
+**Email**:              `suesakol@staff.tu.ac.th`           <br>
+**Virtual office hours**:  TU & TH from 1 p.m. to 4 p.m.    <br>
+**Room**:             Online Synchronous Sessions via Zoom  <br>
+**Time**:               TH 9:30-12:30                       <br>
 **Credits**:           3/48 hours
 
 -----
@@ -31,9 +31,9 @@ header:
 
 
 ## Course Description
-แนวคิดพื้นฐานทั่วไปทางภาษาศาสตร์คอมพิวเตอร์ และความสำคัญของการใช้คลังข้อมูลทางภาษา ฝึกทักษะเบื้องต้นการใช้คอมพิวเตอร์ในการเก็บและวิเคราะห์ข้อมูลทางภาษาและภาษาศาสตร์
+ทฤษฎีและแนวคิดในการรับภาษาที่สอง กระบวนการรับภาษาที่สอง ปัจจัยต่างๆ ที่มีอิทธิพลต่อผลสัมฤทธิ์ของผู้เรียนที่แตกต่างกัน
 
-The course introduces students to computational linguistics (CL)/natural language processing (NLP), with a particular emphasis on concepts, models, and algorithms that aid the analysis of natural languages. The course aims to blend theoretical discussions with hands-on training in text processing using Python. We will begin by learning how computers encode written and spoken language. We will then examine the applications of CL/NLP methods to a range of linguistic phenomena. The topics we will cover include tokenization, part-of-speech tagging, parsing, corpus exploration, and others. Hands-on components of the course include learning basic programming in Python.
+Multilingualism, the knowledge and use of more than one language by individuals and groups, is as old as humanity itself. Second language acquisition (SLA) is the scholarly field that investigates the human capacity to learn languages other than the first in late childhood, adolescence, and adulthood. In this course, we will examine various sources of influences on the learning of additional languages later in life. These include age, crosslinguistic influence, the linguistic environment, cognition, the development of learner language, and motivation and affect.
 
 &nbsp;
 
