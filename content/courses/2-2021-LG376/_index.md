@@ -127,12 +127,13 @@ In this course, I assign grades based on how well students perform. The grading 
   * This assignment is collaborative and should be carried out in groups of three (3) people. You will create a lexical decision task experiment in [PsychoPy](https://www.psychopy.org). This experiment script should contain (a) task instructions, (b) practice session, (c) main task component, and (d) debriefing. You will use this experiment to collect data from your participants and the information you obtain will be reported in your group's final collaborative project. In the second half of the course, we will learn how to build a lexical decision task using PsychoPy Builder.
 
 6. **Final collaborative project (35%)**
-  * The final project builds on the PsychoPy experiment assignment; thus, it is necessary that you work with the same group of people. The project will give you the opportunity to develop your academic research and writing skill as you replicate an existing study in SLA. 
+  * The final project builds on the PsychoPy experiment assignment; thus, it is necessary that you work with the same group of people. The project will give you the opportunity to develop your academic research and writing skill as you replicate an existing study in SLA. The final project is divided into three smaller parts:
   
-  * **Project references (5%)**
-    - For this one-page assignment, you will develop a list of references based in part on Supasiraprapa's (2019) study. Your reference list must include two or more articles published since 2019 and contain both theoretical papers in SLA as well as empirical studies. The reference list should conform to APA format and stay within a one-page limit. This assignment will provide the basis of the literature review for your final paper.
+    * **Project references (5%)**
+      - For this one-page assignment, you will develop a list of references based in part on Supasiraprapa's (2019) study. Your reference list must include two or more articles published since 2019 and contain both theoretical papers in SLA as well as empirical studies. The reference list should conform to APA format and stay within a one-page limit. This assignment will provide the basis of the literature review for your final paper.
   
-  *
+    * **Draft submission of your final project (15%)**
+      - By April 21, your group should submit a working draft of the final collaborative project that contains the following:
     
 &nbsp;
 
