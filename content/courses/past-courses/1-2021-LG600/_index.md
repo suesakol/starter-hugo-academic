@@ -9,3 +9,6 @@ header:
   caption: ""
   image: ""
 ---
+
+- {{< staticref "courses/docs/1-2021-600syl.pdf" "newtab" >}}Course syllabus{{< /staticref >}} 
+- Student evaluation
