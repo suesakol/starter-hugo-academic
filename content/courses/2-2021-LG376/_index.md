@@ -167,7 +167,7 @@ In this course, I assign grades based on how well students perform. The grading 
 |Weeks |  Dates       | Topics                               | Readings    | Assignments                      |
 |----- |:------------:|:-------------------------------------|-------------|-------------------------------   |
 |  1   | 01/13/22     | Introduction to the course <br>                                                                                                [{{% staticref "467LC_2021/Slides/LG467.pdf" %}}Introduction{{% /staticref %}}]                                                                                     |             |                                  |
-|  2   | 01/20/22     |                                      |             |                                  |
+|  2   | 01/20/22     | (Re-)examining SLA                   | Ortega (2013; 8-12) <br>                                                                                                       DH (1-3; 6-7; 13-21)                                                                                                                       |                                  |
 |  3   | 01/27/22     |                                      |             |                                  |
 |  4   | 02/03/22     |                                      |             |                                  |
 |  5   | 02/10/22     |                                      |             |                                  |
@@ -182,8 +182,7 @@ In this course, I assign grades based on how well students perform. The grading 
 |  14  | 04/14/22     | Songkran Holiday week                |             |                                  |
 |  15  | 04/21/22     |                                      |             |                                  |
 |  16  | 04/28/22     |                                      |             |                                  |
-|  17  | 05/05/22     |                                      |             |                                  |
-| 05/10/22 Assignment: Final paper submission                                                                |
+|  17  | 05/05/22     | Course wrap-up                       |             | Turn in your group's final paper on 05/10.  |
 
 
 
