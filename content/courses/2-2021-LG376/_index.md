@@ -11,6 +11,12 @@ header:
   image: ""
 ---
 
+<style type="text/css">
+  body{
+  font-size: 10pt;
+}
+</style>
+
 -----
 **Instructor**:       Sakol Suethanapornkul                 <br>
 **Email**:              `suesakol@staff.tu.ac.th`           <br>
