@@ -21,11 +21,9 @@ header:
 
 -----
 
-<font size = "1"> 
-*The course syllabus provides a general plan for the course; some modifications may be necessary in response to students’ needs and classroom interaction.*
+<font size = "2"> *The course syllabus provides a general plan for the course; some modifications may be necessary in response to students’ needs and classroom interaction.*
 
-*This course is based on similar courses taught by Dr. Lourdes Ortega at Georgetown University and Dr. Brandon Tullock at University of South Florida.*
-</font>
+*This course is based on similar courses taught by Dr. Lourdes Ortega at Georgetown University and Dr. Brandon Tullock at University of South Florida.* </font>
 
 
 ## Course Description
