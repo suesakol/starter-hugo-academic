@@ -167,11 +167,11 @@ In this course, I assign grades based on how well students perform. The grading 
 |Weeks |  Dates       | Topics                               | Readings    | Assignments                      |
 |----- |:------------:|:-------------------------------------|-------------|-------------------------------   |
 |  1   | 01/13/22     | Introduction to the course <br>                                                                                                [{{% staticref "467LC_2021/Slides/LG467.pdf" %}}Introduction{{% /staticref %}}]                                                                                     |             |                                  |
-|  2   | 01/20/22     | (Re-)examining SLA                   | Ortega (2013; 8-12) <br>                                                                                                       DH (1-3; 6-7; 13-21)                                                                                                                       |                                  |
-|  3   | 01/27/22     |                                      |             |                                  |
-|  4   | 02/03/22     |                                      |             |                                  |
-|  5   | 02/10/22     |                                      |             |                                  |
-|  6   | 02/17/22     |                                      |             |                                  |
+|  2   | 01/20/22     | (Re-)examining SLA                   | Ortega (2013; 8-12) <br>                                                                                                       DH (1-3; 6-7)                                                                                                                              |                                  |
+|  3   | 01/27/22     | Age [1]                              | OR (Sec. 2.1, 2.3, 2.4) <br>                                                                                                   Ioup et al. (1994)                                                                                                                         | [Study synopsis practice]        |
+|  4   | 02/03/22     | Crosslinguistic influence [1]        | OR (Sec. 3.1-3.4)                                                                                                                          | **Quiz 1** at start of class     |
+|  5   | 02/10/22     | Crosslinguistic influence [2]        | OR (Sec. 3.6-3.9; 3.11-3.12)                                                                                                               |                                  |
+|  6   | 02/17/22     | Linguistic environment [1]           | OR (Sec. 4.1; 4.3-4.6)                                                                                                                     | **Quiz 2** at start of class     |
 |  7   | 02/24/22     |                                      |             |                                  |
 |  8   | 03/03/22     | Mid-term examination week            |             |                                  |
 |  9   | 03/10/22     |                                      |             |                                  |
