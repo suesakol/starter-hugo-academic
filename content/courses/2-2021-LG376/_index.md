@@ -29,7 +29,7 @@ header:
 ## Course Description
 ทฤษฎีและแนวคิดในการรับภาษาที่สอง กระบวนการรับภาษาที่สอง ปัจจัยต่างๆ ที่มีอิทธิพลต่อผลสัมฤทธิ์ของผู้เรียนที่แตกต่างกัน
 
-Multilingualism, the knowledge and use of more than one language by individuals and groups, is as old as humanity itself. Second language acquisition (SLA) is the scholarly field that investigates the human capacity to learn languages other than the first in late childhood, adolescence, and adulthood. In this course, we will examine various sources of influences on the learning of additional languages later in life. These include age, crosslinguistic influence, the linguistic environment, cognition, the development of learner language, and motivation and affect. We will situate SLA within a larger context of bi/multilingualism. As a prerequisite, successful completion of LG 211 Introduction to Linguistics (with C or above) is required.
+Multilingualism, the knowledge and use of more than one language by individuals and groups, is as old as humanity itself. Second language acquisition (SLA) is the scholarly field that investigates the human capacity to **learn languages other than the first** in late childhood, adolescence, and adulthood. In this course, we will examine various sources of influences on the learning of additional languages later in life. These include age, crosslinguistic influence, the linguistic environment, cognition, the development of learner language, and motivation and affect. We will situate SLA within a larger context of bilingualism and multilingualism. As a prerequisite, successful completion of LG 211 Introduction to Linguistics (with C or above) is required.
 
 &nbsp;
 
@@ -124,9 +124,16 @@ In this course, I assign grades based on how well students perform. The grading 
   * This is a short assignment to bring to class on Week 9, when we read about vocabulary and memory. You will take a vocabulary test and come to class with your results and be prepared to discuss them.
 
 5. **PsychoPy experiment (15%)**
-  * In group of three, you will create a lexical decision task experiment in [PsychoPy](https://www.psychopy.org). This experiment script should contain (a) task instructions, (b) practice session, (c) main task component, and (d) debriefing. You will use this experiment to collect data from your participants and the information you obtain will be reported in your group's final collaborative project. In the second half of the course, we will learn how to build a lexical decision task using PsychoPy Builder.
+  * This assignment is collaborative and should be carried out in groups of three (3) people. You will create a lexical decision task experiment in [PsychoPy](https://www.psychopy.org). This experiment script should contain (a) task instructions, (b) practice session, (c) main task component, and (d) debriefing. You will use this experiment to collect data from your participants and the information you obtain will be reported in your group's final collaborative project. In the second half of the course, we will learn how to build a lexical decision task using PsychoPy Builder.
 
-
+6. **Final collaborative project (35%)**
+  * The final project builds on the PsychoPy experiment assignment; thus, it is necessary that you work with the same group of people. The project will give you the opportunity to develop your academic research and writing skill as you replicate an existing study in SLA. 
+  
+  * **Project references (5%)**
+    - For this one-page assignment, you will develop a list of references based in part on Supasiraprapa's (2019) study. Your reference list must include two or more articles published since 2019 and contain both theoretical papers in SLA as well as empirical studies. The reference list should conform to APA format and stay within a one-page limit. This assignment will provide the basis of the literature review for your final paper.
+  
+  *
+    
 &nbsp;
 
 
