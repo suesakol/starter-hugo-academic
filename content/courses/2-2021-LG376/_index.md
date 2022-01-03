@@ -155,6 +155,9 @@ In this course, I assign grades based on how well students perform. The grading 
         - Overarching research question(s)
         - An outline of the method and results section
     
+    * **Written final submission (15%)**
+      - Excluding references, the final paper should be approximately 6 solid pages. It must be typed in 12-point font and double-spaced with 1-inch margins. All in-text citations and references must follow APA format. The paper should read as a single coherent piece of writing, with tile, an introductory overview, a presentation of method and results, an overall conclusion, and a reference list. Criteria for assessment will be provided later in the course.
+      
 &nbsp;
 
 
@@ -163,8 +166,24 @@ In this course, I assign grades based on how well students perform. The grading 
 
 |Weeks |  Dates       | Topics                               | Readings    | Assignments                      |
 |----- |:------------:|:-------------------------------------|-------------|-------------------------------   |
-|  1   | 01/13/22     | Course introduction <br>                                                                                                    [{{% staticref "467LC_2021/Slides/LG467.pdf" %}}Introduction{{% /staticref %}}]       | ||
-|  2   | 08/18/21     |                                      |             |                                  |
+|  1   | 01/13/22     | Introduction to the course <br>                                                                                                [{{% staticref "467LC_2021/Slides/LG467.pdf" %}}Introduction{{% /staticref %}}]                                                                                     |             |                                  |
+|  2   | 01/20/22     |                                      |             |                                  |
+|  3   | 01/27/22     |                                      |             |                                  |
+|  4   | 02/03/22     |                                      |             |                                  |
+|  5   | 02/10/22     |                                      |             |                                  |
+|  6   | 02/17/22     |                                      |             |                                  |
+|  7   | 02/24/22     |                                      |             |                                  |
+|  8   | 03/03/22     | Mid-term examination week            |             |                                  |
+|  9   | 03/10/22     |                                      |             |                                  |
+|  10  | 03/17/22     |                                      |             |                                  |
+|  11  | 03/24/22     |                                      |             |                                  |
+|  12  | 03/31/22     |                                      |             |                                  |
+|  13  | 04/07/22     |                                      |             |                                  |
+|  14  | 04/14/22     | Songkran Holiday week                |             |                                  |
+|  15  | 04/21/22     |                                      |             |                                  |
+|  16  | 04/28/22     |                                      |             |                                  |
+|  17  | 05/05/22     |                                      |             |                                  |
+| 05/10/22 Assignment: Final paper submission                                                                |
 
 
 
