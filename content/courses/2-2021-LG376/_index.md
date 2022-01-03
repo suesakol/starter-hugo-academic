@@ -16,13 +16,11 @@ header:
 <style type="text/css">
   /* Whole document: */
   body{
-    font-family: Helvetica;
     font-size: 14pt;
   }
   /* Headers */
   h1,h2,h3,h4,h5,h6{
-    font-family: Helvetica;
-    font-size: 22pt;
+    font-size: 20pt;
     }
 </style>
 
