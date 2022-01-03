@@ -21,11 +21,11 @@ header:
 
 -----
 
-
+<font size = "1"> 
 *The course syllabus provides a general plan for the course; some modifications may be necessary in response to students’ needs and classroom interaction.*
 
 *This course is based on similar courses taught by Dr. Lourdes Ortega at Georgetown University and Dr. Brandon Tullock at University of South Florida.*
-
+</font>
 
 
 ## Course Description
@@ -42,7 +42,7 @@ By the end of this course, you should be able to do the following:
 1. identify major themes, questions, issues, and hypotheses in SLA;
 2. summarize, synthesize, and evaluate reports of SLA research;
 3. replicate an existing study in SLA and report on the project's findings; and
-4. improve and refine their scholarly writing and presentation skills.
+4. improve and refine your scholarly writing and presentation skills.
 
 &nbsp;
 
