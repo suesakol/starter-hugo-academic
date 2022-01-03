@@ -16,7 +16,7 @@ header:
 <style type="text/css">
   /* Whole document: */
   body{
-    font-size: 13pt;
+    font-size: 15pt;
   }
   /* Headers */
   h1,h2,h3,h4,h5,h6{
@@ -150,6 +150,10 @@ In this course, I assign grades based on how well students perform. The grading 
   
     * **Draft submission of your final project (15%)**
       - By April 21, your group should submit a working draft of the final collaborative project that contains the following:
+        - A provisional title of your project
+        - A literature review outlining key issues in your replication study
+        - Overarching research question(s)
+        - An outline of the method and results section
     
 &nbsp;
 
