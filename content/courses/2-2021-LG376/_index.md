@@ -11,6 +11,8 @@ header:
   image: ""
 ---
 
+
+
 <style type="text/css">
   /* Whole document: */
   body{
@@ -19,9 +21,13 @@ header:
   }
   /* Headers */
   h1,h2,h3,h4,h5,h6{
-    font-size: 20pt;
+    font-family: Helvetica;
+    font-size: 22pt;
     }
 </style>
+
+
+
 
 -----
 **Instructor**:       Sakol Suethanapornkul                 <br>
