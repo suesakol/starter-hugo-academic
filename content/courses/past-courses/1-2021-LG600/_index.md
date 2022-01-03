@@ -1,5 +1,5 @@
 ---
-title: LG 600 Approaches to Linguistics
+title: LG 600 Approaches to Linguistics (2021/1)
 type: page
 summary: 'This graduate-level introductory course covers major approaches in linguistics such as generative, usage-based, typological-universal linguistics. Course readings include theoretical papers as well as empirical research studies.'
 date: '2021-07-25'
