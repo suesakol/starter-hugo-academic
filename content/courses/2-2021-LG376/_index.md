@@ -14,7 +14,7 @@ header:
 -----
 **Instructor**:       Sakol Suethanapornkul                 <br>
 **Email**:              `suesakol@staff.tu.ac.th`           <br>
-**Virtual office hours**:  TU & TH from 1 p.m. to 4 p.m.    <br>
+**Office hours**:  T & TH from 1 p.m. to 4 p.m. (or by appointment)    <br>
 **Room**:             Online Synchronous Sessions via Zoom  <br>
 **Time**:               TH 9:30-12:30                       <br>
 **Credits**:           3/48 hours
@@ -25,8 +25,6 @@ header:
 *The course syllabus provides a general plan for the course; some modifications may be necessary in response to students’ needs and classroom interaction.*
 
 *This course is based on similar courses taught by Dr. Lourdes Ortega at Georgetown University and Dr. Brandon Tullock at University of South Florida.*
-
-&nbsp;
 
 
 
