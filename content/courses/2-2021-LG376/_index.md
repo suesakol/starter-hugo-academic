@@ -29,7 +29,7 @@ header:
 ## Course Description
 ทฤษฎีและแนวคิดในการรับภาษาที่สอง กระบวนการรับภาษาที่สอง ปัจจัยต่างๆ ที่มีอิทธิพลต่อผลสัมฤทธิ์ของผู้เรียนที่แตกต่างกัน
 
-Multilingualism, the knowledge and use of more than one language by individuals and groups, is as old as humanity itself. Second language acquisition (SLA) is the scholarly field that investigates the human capacity to learn languages other than the first in late childhood, adolescence, and adulthood. In this course, we will examine various sources of influences on the learning of additional languages later in life. These include age, crosslinguistic influence, the linguistic environment, cognition, the development of learner language, and motivation and affect. As a prerequisite, successful completion of LG 211 Introduction to Linguistics (with C or above) is required.
+Multilingualism, the knowledge and use of more than one language by individuals and groups, is as old as humanity itself. Second language acquisition (SLA) is the scholarly field that investigates the human capacity to learn languages other than the first in late childhood, adolescence, and adulthood. In this course, we will examine various sources of influences on the learning of additional languages later in life. These include age, crosslinguistic influence, the linguistic environment, cognition, the development of learner language, and motivation and affect. We will situate SLA within a larger context of bi/multilingualism. As a prerequisite, successful completion of LG 211 Introduction to Linguistics (with C or above) is required.
 
 &nbsp;
 
@@ -73,13 +73,11 @@ By the end of this course, you should be able to do the following:
 
 ## Course Organization
 
-Course management is done through **this course website** and **Microsoft Teams**. You can obtain course materials (syllabus, slides, assignments, etc.) from this website. Assignment submissions, class announcements, and grades will be handled through Teams.
+Course management is done through **this course website** and **Microsoft Teams**. You can obtain course materials (syllabus, and slides) from this website. Course readings, assignment submissions, class announcements, and grades will be handled through Teams.
 
 ### Textbooks
 1. Ortega, L. (Revised version). *Understanding second language acquisition*. [OR for short]
 2. De Houwer, A. (2021). *Bilingual development in childhood*. Cambridge: Cambridge University Press [DH for short]
-
-Additional readings will be made available on Microsoft Teams.
 
 &nbsp;
 
@@ -106,7 +104,7 @@ In this course, I assign grades based on how well students perform. The grading 
 | Study synopses             | 20%          | 10 points each, 2 in total   |                                            |
 | In-class quizzes           | 20%          | 6/7 points each, 3 in total  |                                            |
 | 'Test your vocabulary'     | 5%           |                              | Homework assignment for class discussion   |
-| PsychoPy experiment        | 15%          |                              | A script that runs a lexical decision task |
+| PsychoPy experiment        | 15%          |                              | Script that runs a lexical decision task   |
 | Final collaborative project| 35%          |                              |                                            |
 
 
@@ -121,6 +119,12 @@ In this course, I assign grades based on how well students perform. The grading 
   
 3. **In-class quizzes (20%)**
   * You will complete **three (3) open-book quizzes**, interspersed throughout the semester. Each quiz is designed to assess your understanding of reading materials assigned for that particular week and will take place at the beginning of the class, from 9:30 to 9:45 am. Check the schedule for each quiz. Note that no makeup quiz will be given.
+
+4. **'Test your vocabulary' (5%)**
+  * This is a short assignment to bring to class on Week 9, when we read about vocabulary and memory. You will take a vocabulary test and come to class with your results and be prepared to discuss them.
+
+5. **PsychoPy experiment (15%)**
+  * In group of three, you will create a lexical decision task experiment in [PsychoPy](https://www.psychopy.org). This experiment script should contain (a) task instructions, (b) practice session, (c) main task component, and (d) debriefing. You will use this experiment to collect data from your participants and the information you obtain will be reported in your group's final collaborative project. In the second half of the course, we will learn how to build a lexical decision task using PsychoPy Builder.
 
 
 &nbsp;
