@@ -16,7 +16,7 @@ header:
 <style type="text/css">
   /* Whole document: */
   body{
-    font-size: 14pt;
+    font-size: 13pt;
   }
   /* Headers */
   h1,h2,h3,h4,h5,h6{
