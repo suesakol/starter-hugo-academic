@@ -92,8 +92,8 @@ By the end of this course, you should be able to do the following:
 Course management is done through **this course website** and **Microsoft Teams**. You can obtain course materials (syllabus, and slides) from this website. Course readings, assignment submissions, class announcements, and grades will be handled through Teams.
 
 ### Textbooks
-1. Ortega, L. (Revised version). *Understanding second language acquisition*. [OR for short]
-2. De Houwer, A. (2021). *Bilingual development in childhood*. Cambridge: Cambridge University Press [DH for short]
+1. Ortega, L. (Revised version). *Understanding second language acquisition*. [**USLA** for short]
+2. De Houwer, A. (2021). *Bilingual development in childhood*. Cambridge: Cambridge University Press [**BDC** for short]
 
 &nbsp;
 
@@ -164,25 +164,25 @@ In this course, I assign grades based on how well students perform. The grading 
 
 ## Class Schedule
 
-|Weeks |  Dates       | Topics                               | Readings    | Assignments                      |
-|----- |:------------:|:-------------------------------------|-------------|-------------------------------   |
-|  1   | 01/13/22     | Introduction to the course <br>                                                                                                [{{% staticref "467LC_2021/Slides/LG467.pdf" %}}Introduction{{% /staticref %}}]                                                                                     |             |                                  |
-|  2   | 01/20/22     | (Re-)examining SLA                   | Ortega (2013; 8-12) <br>                                                                                                       DH (1-3; 6-7)                                                                                                                              |                                  |
-|  3   | 01/27/22     | Age [1]                              | OR (Sec. 2.1, 2.3, 2.4) <br>                                                                                                   Ioup et al. (1994)                                                                                                                         | [Study synopsis practice]        |
-|  4   | 02/03/22     | Crosslinguistic influence [1]        | OR (Sec. 3.1-3.4)                                                                                                                          | **Quiz 1** at start of class     |
-|  5   | 02/10/22     | Crosslinguistic influence [2]        | OR (Sec. 3.6-3.9; 3.11-3.12)                                                                                                               |                                  |
-|  6   | 02/17/22     | Linguistic environment [1]           | OR (Sec. 4.1; 4.3-4.6)                                                                                                                     | **Quiz 2** at start of class     |
-|  7   | 02/24/22     |                                      |             |                                  |
-|  8   | 03/03/22     | Mid-term examination week            |             |                                  |
-|  9   | 03/10/22     |                                      |             |                                  |
-|  10  | 03/17/22     |                                      |             |                                  |
-|  11  | 03/24/22     |                                      |             |                                  |
-|  12  | 03/31/22     |                                      |             |                                  |
-|  13  | 04/07/22     |                                      |             |                                  |
-|  14  | 04/14/22     | Songkran Holiday week                |             |                                  |
-|  15  | 04/21/22     |                                      |             |                                  |
-|  16  | 04/28/22     |                                      |             |                                  |
-|  17  | 05/05/22     | Course wrap-up                       |             | Turn in your group's final paper on 05/10.  |
+|Weeks |  Dates       | Topics                               | Readings    | Assignments                          |
+|----- |:------------:|:-------------------------------------|-------------|-------------------------------       |
+|  1   | 01/13/22     | Introduction to the course <br>                                                                                                [{{% staticref "467LC_2021/Slides/LG467.pdf" %}}Introduction{{% /staticref %}}]                                                                                     |             |                                      |
+|  2   | 01/20/22     | (Re-)examining SLA                   | Ortega (2013; 8-12) <br>                                                                                                       BDC (1-3; 6-7)                                                                                                                             |                                      |
+|  3   | 01/27/22     | Age                                  | USLA (Sec. 2.1, 2.3, 2.4) <br>                                                                                                 Ioup et al. (1994)                                                                                                                         | [Study synopsis practice]            |
+|  4   | 02/03/22     | Crosslinguistic influence [1]        | USLA (Sec. 3.1-3.4)                                                                                                                        | **Quiz 1** at start of class         |
+|  5   | 02/10/22     | Crosslinguistic influence [2]        | USLA (Sec. 3.6-3.9; 3.11-3.12)                                                                                                             |                                      |
+|  6   | 02/17/22     | Linguistic environment [1]           | USLA (Sec. 4.1; 4.3-4.6)                                                                                                                   | **Quiz 2** at start of class         |
+|  7   | 02/24/22     | Linguistic environment [2]           | De Houwer (2014) <br>                                                                                                          Supasiraprapa (2019)                                                                                                                       | **Synopsis 1**: Supasiraprapa (2019) |
+|  8   | 03/03/22     | Mid-term examination week            |             |                                      |
+|  9   | 03/10/22     | Cognition [1]                        | USLA (Sec. 5.1-5.5)                                                                                                                        | Bring **'Test your vocabulary'** results to class                                                                                                                   |
+|  10  | 03/17/22     | Cognition [2] <br>                                                                                                             Installing PsychoPy                  |             | **Quiz 3** at start of class         |
+|  11  | 03/24/22     | Cognition [3] <br>                                                                                                             PsychoPy [1]                         |             |                                      |
+|  12  | 03/31/22     | Learner language [1] <br>                                                                                                      PsychoPy [2]                         |             | **Reference list**                   |
+|  13  | 04/07/22     | Learner language [2]                 |             | **Synopsis 2**: <br>                                                                                                           **PsychoPy Experiment**              |
+|  14  | 04/14/22     | Songkran Holiday week                |             |                                      |
+|  15  | 04/21/22     | Affect [1]                           |             | Turn in **draft submission of final paper**.                                                                                                                        |
+|  16  | 04/28/22     | Affect [2]                           |             |                                      |
+|  17  | 05/05/22     | Course wrap-up                       |             | Turn in your group's **final paper** on 05/15.  |
 
 
 
