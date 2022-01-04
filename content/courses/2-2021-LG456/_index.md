@@ -126,13 +126,13 @@ In this course, I assign grades based on how well students perform. The grading 
 
 ### Grade breakdown:
 
-|  Requirements                | Percent      | Points                       |
-|:-----------------------------|:------------:|:-----------------------------|
-| Research interest            | 5%           |                              |
-| Study synopses               | 20%          | 10 points each, 2 in total   |
-| Discussion leading           | 15%          |                              |
-| Final research-based project | 50%          |                              |
-| - Provision plan             | (10%)        |                              |
+|  Requirements                | Percent      | Points                       | Assessment formats|
+|:-----------------------------|:------------:|:-----------------------------|:---------------|
+| Research interest            | 5%           |                              | Individual |
+| Study synopses               | 20%          | 10 points each, 2 in total   | Individual |
+| Discussion leading           | 15%          |                              | Group |
+| Final research-based project | 50%          |                              | Group |
+| - Provision plan             | (10%)        |                              | |
 
 
 ### Assignment descriptions:
