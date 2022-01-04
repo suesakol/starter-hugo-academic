@@ -30,7 +30,7 @@ header:
 -----
 **Instructor**:       Sakol Suethanapornkul                 <br>
 **Email**:              `suesakol@staff.tu.ac.th`           <br>
-**Office hours**:  T & TH from 1 p.m. to 4 p.m. (or by appointment)    <br>
+**Office hours**:  T & TH from 1 p.m. to 4 p.m.             <br>
 **Room**:             Online Synchronous Sessions via Zoom  <br>
 **Time**:               TH 9:30-12:30                       <br>
 **Credits**:           3/48 hours
@@ -45,7 +45,7 @@ header:
 ## Course Description
 ทฤษฎีและแนวคิดในการรับภาษาที่สอง กระบวนการรับภาษาที่สอง ปัจจัยต่างๆ ที่มีอิทธิพลต่อผลสัมฤทธิ์ของผู้เรียนที่แตกต่างกัน
 
-Multilingualism, the knowledge and use of more than one language by individuals and groups, is as old as humanity itself. Second language acquisition (SLA) is the scholarly field that investigates the human capacity to learn languages other than the first in late childhood, adolescence, and adulthood. This course will examine various sources of influences on the learning of additional languages later in life. These include--among other things--age, crosslinguistic influence, the linguistic environment, cognition, the development of learner language, and motivation and affect. We will situate SLA within a larger context of bilingualism and multilingualism. As a prerequisite, successful completion of LG 211 Introduction to Linguistics (with C or above) is required.
+Multilingualism, the knowledge and use of more than one language by individuals and groups, is as old as humanity itself. Second language acquisition (SLA) is the scholarly field that investigates the human capacity to learn languages other than the first in late childhood, adolescence, and adulthood. This course will examine various sources of influences on the learning of additional languages later in life. These include--among other things--age, crosslinguistic influence, the linguistic environment, cognition, the development of learner language, and motivation and affect. We will situate SLA within a larger context of bilingualism and multilingualism. Successful completion of LG 211 Introduction to Linguistics (with C or above) is required in order to enroll in this course.
 
 &nbsp;
 
@@ -74,14 +74,16 @@ By the end of this course, you should be able to do the following:
   * Only in medical or personal emergencies will late work be accepted. Communicate with me early if you anticipate having trouble completing any assignment in a timely manner.
 
 3. **Plagiarism is not tolerated.** 
-  * Plagiarizing other people's work in an assignment results in an automatic zero for that assignment.
+  * Plagiarizing other people's work in an assignment results in an automatic zero **for that assignment**.
 
 4. **Follow APA guidelines for all written assignments.** 
   * The following resources provide helpful information on APA style:
-  * American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th edition). Washington, DC: American Psychological Association.
+  * Book:
+    + American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th edition). Washington, DC: American Psychological Association.
   * Websites:
     + [APA style and grammar guidelines](https://apastyle.apa.org/style-grammar-guidelines)
     + [OWL's APA guidelines](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html)
+    + [Getting started in APA](https://libraryguides.vu.edu.au/apa-referencing/7GettingStarted)
 
 &nbsp;
 
@@ -131,10 +133,10 @@ In this course, I assign grades based on how well students perform. The grading 
   * There is no such thing as an excused absence in this course, expect in instances where documentation from a health professional or university administrator is provided explaning the absence.
 
 2. **Two study synopses (20%)**
-  * You will be asked to summarize two empirical studies of SLA/Bilingualism that we read throughout the semester, each in a one-page synopsis format. The goals of this assignment are: (a) to help you read with an eye for the underlying structure of the research reports, (b) to help you deepen your understanding of the readings, and (c) hopefully, to foster this kind of synthetic note-taking strategy in other readings that you do for the final project and other readings in class.
+  * You will be asked to summarize **two (2) empirical studies** of SLA/Bilingualism that we read throughout the semester, each in a one-page synopsis format. The goals of this assignment are: (a) to help you read with an eye for the underlying structure of the research reports, (b) to help you deepen your understanding of the readings, and (c) hopefully, to foster this kind of synthetic note-taking strategy in other readings that you do for the final project and other readings in class.
   
 3. **In-class quizzes (20%)**
-  * You will complete **three (3) open-book quizzes**, interspersed throughout the semester. Each quiz is designed to assess your understanding of reading materials assigned for that particular week and will take place at the beginning of the class, from 9:30 to 9:45 am. Check the schedule for each quiz. Note that no makeup quiz will be given.
+  * You will complete **three (3) open-book quizzes**, interspersed throughout the semester. Each quiz is designed to assess your understanding of reading materials assigned for that particular week and will take place at the beginning of the class, from 9:30 to 9:45 am. Check the schedule for each quiz. There will be no makeup quiz.
 
 4. **'Test your vocabulary' (5%)**
   * This is a short assignment to bring to class on Week 9, when we read about vocabulary and memory. You will take a vocabulary test and come to class with your results and be prepared to discuss them.
@@ -156,7 +158,7 @@ In this course, I assign grades based on how well students perform. The grading 
         - An outline of the method and results section
     
     * **Written final submission (15%)**
-      - Excluding references, the final paper should be approximately 6 solid pages. It must be typed in 12-point font and double-spaced with 1-inch margins. All in-text citations and references must follow APA format. The paper should read as a single coherent piece of writing, with tile, an introductory overview, a presentation of method and results, an overall conclusion, and a reference list. Criteria for assessment will be provided later in the course.
+      - Excluding references, the final paper should be approximately **6 pages**. It must be typed in 12-point font and double-spaced with 1-inch margins. All in-text citations and references must follow APA format. The paper should read as a single coherent piece of writing, with tile, an introductory overview, a presentation of method and results, an overall conclusion, and a reference list. Criteria for assessment will be provided later in the course.
       
 &nbsp;
 
