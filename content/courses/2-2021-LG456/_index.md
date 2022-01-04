@@ -104,40 +104,35 @@ Course management is done through **this course website** and **Microsoft Teams*
 ### Grading scale:
 In this course, I assign grades based on how well students perform. The grading scheme outlines key letter grades:
 
-  * A   85-100% 
+  * **A   85-100%**
     + Grade at the A-level indicates an accurate, nuanced understanding of the concepts and issues covered in the class lectures and readings. It also displays the ability to apply those concepts accurately and coherently in the assignments. A-level work also includes evidence of synthesis of information and insight that goes beyond summarization of the materials.
   
-  * B+ 80-84.99
-  * B   75-79.99 
+  * **B+ 80-84.99**
+  * **B   75-79.99** 
     + Grades at the B-level indicate accurate understanding of the concepts and issues covered in the class lectures and readings, although there may be some minor errors, omissions, or misunderstandings. They indicate some ability to apply concepts accurately and coherently in the assignments, but answers may not be comprehensive or well-organized. B-level work represents the ability to summarize the arguments and issues presented through course materials, but may lack independent analysis or synthesis.
   
-  * C+ 70-74.99
-  * C   65-69.99
+  * **C+ 70-74.99**
+  * **C   65-69.99**
     + Grades at the C-level indicate a fairly accurate and/or incomplete understanding of the concepts and issues covered in class lectures and readings, with some major and minor errors or omissions concerning basic information. They indicate little ability to apply concepts accurately and coherently in the assignments, and generally lack organization and depth.
+  
+  * **D+ 60-64.99**
+  * **D   55-59.99**
+    + Grades at the D-level indicate an inaccurate and/or incomplete understanding of the concepts and issues covered in class lectures and readings, with multiple errors and omissions concerning basic information. They suggest a lack of ability to apply concepts accurately or coherently in the assignments.
+    
+  * **F    0-54.99**
+    + Grade at the F-level indicates failure to understand the concepts and issues covered in class lectures and readings, with little indication that basic information has been grasped.
 
 
-
-|Grades |             Descriptions          | 
-|:------------|:---------------------|
-| A 85-100%             |Grade at the A-level indicates an accurate, and nuanced understanding of the concepts and issues covered in the class lectures and readings. It also displays the ability to apply those concepts accurately and coherently in the assignments. A-level work also includes evidence of synthesis of information and insight that goes beyond summarization of the materials. |
-| B+   80-84.99            | |
-| B      75-79.99            | |
-| C+     70-74.99            ||
-| C     65-69.99            | |
-| D+     60-64.99            | |
-| D      55-59.99            | |
-| F    0-54.99             | |
 
 ### Grade breakdown:
 
-|  Requirements              | Percent      | Points                       | Note             |
-|:---------------------------|:------------:|:-----------------------------|:-------------------------------------------|
-| Participation              | 10%          |                              |                                            |
-| Study synopses             | 20%          | 10 points each, 2 in total   |                                            |
-| In-class quizzes           | 20%          | 6/7 points each, 3 in total  |                                            |
-| 'Test your vocabulary'     | 5%           |                              | Homework assignment for class discussion   |
-| PsychoPy experiment        | 15%          |                              | Script that runs a lexical decision task   |
-| Final collaborative project| 35%          |                              |                                            |
+|  Requirements                | Percent      | Points                       |
+|:-----------------------------|:------------:|:-----------------------------|
+| Research interest            | 5%           |                              |
+| Study synopses               | 20%          | 10 points each, 2 in total   |
+| Discussion leading           | 15%          |                              |
+| Final research-based project | 50%          |                              |
+| - Provision plan             | (10%)        |                              |
 
 
 ### Assignment descriptions:
