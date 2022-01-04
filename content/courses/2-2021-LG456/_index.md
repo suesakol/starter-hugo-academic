@@ -151,7 +151,7 @@ In this course, I assign grades based on how well students perform. The grading 
 
 
 2. **Two study synopses (20%)**
-  * You will summarize 2 empirical studies in applied linguistics that we read throughout the semester, each in **a one-page synopsis format**. The goals of this assignment are: (a) to help you read with an eye for the underlying structure of research reports, (b) to encourage a two-way reading mode, from attention to detail back to a bird's-eye view perspective, (c) to help you deepen your understanding of these readings, and (d) hopefully, to foster this kind of synthetic note-taking strategy in other readings you do for your final project and the rest of readings in class.
+  * You will summarize 2 empirical studies in applied linguistics that we read throughout the semester, each in <span style="color: red;">a one-page synopsis format</span>. The goals of this assignment are: (a) to help you read with an eye for the underlying structure of research reports, (b) to encourage a two-way reading mode, from attention to detail back to a bird's-eye view perspective, (c) to help you deepen your understanding of these readings, and (d) hopefully, to foster this kind of synthetic note-taking strategy in other readings you do for your final project and the rest of readings in class.
   * A study synopsis is almost like an x-ray of a study. It should take up a single, one-sided page. A study synopsis should contain the following sections:
     + theoretical framework
     + research question(s)/purpose
@@ -184,7 +184,7 @@ In this course, I assign grades based on how well students perform. The grading 
       - a list of references in APA format (4 references per group member)
       
   * **Installment II: Research question(s) and method (10%)**
-    + Installment II, is un updated version of Installment I. The focus of this assignment is on research methods. Your draft should thus answer the following questions:
+    + Installment II is un updated version of Installment I. The focus of this assignment is on research methods. Your draft should thus answer the following questions:
       - What kind of data will you collect?
       - How often will you collect this set of data?
       - Who are you going to collect the data from?
@@ -220,25 +220,10 @@ In this course, I assign grades based on how well students perform. The grading 
 
 ## Class Schedule
 
-|Weeks |  Dates       | Topics                               | Readings    | Assignments                          |
-|----- |:------------:|:-------------------------------------|-------------|-------------------------------       |
-|  1   | 01/13/22     | Introduction to the course <br>                                                                                                [{{% staticref "467LC_2021/Slides/LG467.pdf" %}}Introduction{{% /staticref %}}]                                                                                     |             |                                      |
-|  2   | 01/20/22     | (Re-)examining SLA                   | Ortega (2013; 8-12) <br>                                                                                                       BDC (1-3; 6-7)                                                                                                                             |                                      |
-|  3   | 01/27/22     | Age                                  | USLA (Sec. 2.1, 2.3, 2.4) <br>                                                                                                 Ioup et al. (1994)                                                                                                                         | [Study synopsis practice]            |
-|  4   | 02/03/22     | Crosslinguistic influence [1]        | USLA (Sec. 3.1-3.4)                                                                                                                        | **Quiz 1** at start of class         |
-|  5   | 02/10/22     | Crosslinguistic influence [2]        | USLA (Sec. 3.6-3.9; 3.11-3.12)                                                                                                             |                                      |
-|  6   | 02/17/22     | Linguistic environment [1]           | USLA (Sec. 4.1; 4.3-4.6)                                                                                                                   | **Quiz 2** at start of class         |
-|  7   | 02/24/22     | Linguistic environment [2]           | De Houwer (2014) <br>                                                                                                          Supasiraprapa (2019)                                                                                                                       | **Synopsis 1**: Supasiraprapa (2019) |
-|  8   | 03/03/22     | Mid-term examination week            |             |                                      |
-|  9   | 03/10/22     | Cognition [1]                        | USLA (Sec. 5.1-5.5)                                                                                                                        | Bring **'Test your vocabulary'** results to class                                                                                                                   |
-|  10  | 03/17/22     | Cognition [2] <br>                                                                                                             Installing PsychoPy                  |             | **Quiz 3** at start of class         |
-|  11  | 03/24/22     | Cognition [3] <br>                                                                                                             PsychoPy [1]                         |             |                                      |
-|  12  | 03/31/22     | Learner language [1] <br>                                                                                                      PsychoPy [2]                         |             | Turn in **Reference list**           |
-|  13  | 04/07/22     | Learner language [2]                 |             | **Synopsis 2**: <br>                                                                                                           Turn in **PsychoPy Experiment**      |
-|  14  | 04/14/22     | Songkran Holiday week                |             |                                      |
-|  15  | 04/21/22     | Affect [1]                           |             | Turn in **draft submission of final paper**                                                                                                                         |
-|  16  | 04/28/22     | Affect [2]                           |             |                                      |
-|  17  | 05/05/22     | Course wrap-up                       |             | Turn in **final paper** on 05/15     |
+|Weeks |  Dates       | Discussion | Topics                               | Readings    | Assignments                    |
+|----- |:------------:|:----------:|:-------------------------------------|-------------|------------------------------- |
+|  1   | 01/13/22     |:heavy_check_mark:| Introduction to the course <br>                                                                                                [{{% staticref "467LC_2021/Slides/LG467.pdf" %}}Introduction{{% /staticref %}}]                                                                                     |             |                                      |
+|  2   | 01/20/22     || (Re-)examining SLA                   | Ortega (2013; 8-12) <br>                                                                                                       BDC (1-3; 6-7)                                                                                                                             |                                      |
 
 
 
