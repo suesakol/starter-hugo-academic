@@ -106,7 +106,7 @@ In this course, I assign grades based on how well students perform. The grading 
 
 |Grades       |  Points              |Descriptions          | 
 |:------------|:---------------------|:---------------------|
-| A           |  85-100%             |Grade at the A-level indicates an accurate, and nuanced understanding of the concepts and issues covered in the class lectures and readings. It also displays the ability to apply those concepts accurately and coherently in the assignments. |
+| A           |  85-100%             |Grade at the A-level indicates: <br>                                                                                           - an accurate, and nuanced understanding of the concepts and issues covered in the class lectures and readings <br> - the ability to apply those concepts accurately and coherently in the assignments. |
 | B+          |  80-84.99            | |
 | B           |  75-79.99            | |
 | C+          |  70-74.99            ||
