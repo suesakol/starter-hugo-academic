@@ -140,7 +140,7 @@ In this course, I assign grades based on how well students perform. The grading 
 
 ### Assignment descriptions:
 
-1. **Research interests (5%)**
+1.**Research interests (5%)**
   * For this assignment, you will discuss which area(s) or aspect(s) of language and linguistics you are interested in and how these interests can address real-world problems. You may choose to do the following:
     + First, identify areas of linguistics that fascinate you (e.g., morphology, phonology, syntax, pragmatics, etc.) or language-related topics that pique your interests (e.g., mansplaining in everyday conversation, productivity of English past tense morpheme -*ed*, children learning quantifiers such as *some* and *many*, etc.)
     + Then, think about issue(s) and/or problem(s) you observe with regard to these topics. For instance, you may notice that people with more authority tend to mansplain regardless of their gender. From a different angle, you may be intrigued by how *man*- words are formed (e.g., *mansplain*, *manspread*, *man purse*, etc.) and would like to find out if English language learners can grasp the meaning of these words.
@@ -149,8 +149,15 @@ In this course, I assign grades based on how well students perform. The grading 
   * This assignment is designed to help you relate your knowledge of linguistics and language to real-world issues (i.e., how language is learned and used in society). This real-world emphasis is what sets applied linguistics apart from other fields of linguistics. List each of your research topic and/or idea in a bullet point and under each point, provide a short description of issues surrounding that particular topic. <span style="color: red;">Keep this assignment within a single page</span>.
 
 
-2. **Two study synopses (20%)**
-  * You will be asked to summarize two empirical studies of SLA/Bilingualism that we read throughout the semester, each in a one-page synopsis format. The goals of this assignment are: (a) to help you read with an eye for the underlying structure of the research reports, (b) to help you deepen your understanding of the readings, and (c) hopefully, to foster this kind of synthetic note-taking strategy in other readings that you do for the final project and other readings in class.
+2.**Two study synopses (20%)**
+  * You will summarize 2 empirical studies in applied linguistics that we read throughout the semester, each in **a one-page synopsis format**. The goals of this assignment are: (a) to help you read with an eye for the underlying structure of research reports, (b) to encourage a two-way reading mode, from attention to detail back to a bird's-eye view perspective, (c) to help you deepen your understanding of these readings, and (d) hopefully, to foster this kind of synthetic note-taking strategy in other readings you do for your final project and the rest of readings in class.
+  * A study synopsis is almost like an x-ray of a study. It should take up a single, one-sided page. A study synopsis should contain the following sections:
+    + theoretical framework
+    + reserach question(s)/purpose
+    + method
+    + findings
+    + the "so what" of the article (e.g., why the study matters, as stated by the authors)
+    + your own "so what"" after you are done analyzing, evaluating, and summarizing the article
   
 3. **In-class quizzes (20%)**
   * You will complete **three (3) open-book quizzes**, interspersed throughout the semester. Each quiz is designed to assess your understanding of reading materials assigned for that particular week and will take place at the beginning of the class, from 9:30 to 9:45 am. Check the schedule for each quiz. Note that no makeup quiz will be given. 
