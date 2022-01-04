@@ -136,7 +136,7 @@ In this course, I assign grades based on how well students perform. The grading 
   * You will be asked to summarize **two (2) empirical studies** of SLA/Bilingualism that we read throughout the semester, each in a one-page synopsis format. The goals of this assignment are: (a) to help you read with an eye for the underlying structure of the research reports, (b) to help you deepen your understanding of the readings, and (c) hopefully, to foster this kind of synthetic note-taking strategy in other readings that you do for the final project and other readings in class.
   
 3. **In-class quizzes (20%)**
-  * You will complete **three (3) open-book quizzes**, interspersed throughout the semester. Each quiz is designed to assess your understanding of reading materials assigned for that particular week and will take place at the beginning of the class, from 9:30 to 9:45 am. Check the schedule for each quiz. There will be no makeup quiz. <span style="color: red;">text</span>
+  * You will complete **three (3) open-book quizzes**, interspersed throughout the semester. Each quiz is designed to assess your understanding of reading materials assigned for that particular week and will take place at the beginning of the class, <span style="color: red;">from 9:30 to 9:45 am</span>. Check the schedule for each quiz. There will be no makeup quiz.
 
 4. **'Test your vocabulary' (5%)**
   * This is a short assignment to bring to class on Week 9, when we read about vocabulary and memory. You will take a vocabulary test and come to class with your results and be prepared to discuss them.
