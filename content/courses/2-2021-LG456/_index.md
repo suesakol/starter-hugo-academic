@@ -127,8 +127,8 @@ In this course, I assign grades based on how well students perform. The grading 
 ### Grade breakdown:
 
 |  Requirements                | Percent      | Points                       | Assessment formats   |
-|:-----------------------------|:-------------|:-----------------------------|:--------------------:|
-| Research interest            | 5%           |                              | Individual           |
+|:-----------------------------|:-------------|:----------------------------:|:--------------------:|
+| Research interests           | 5%           |                              | Individual           |
 | Study synopses               | 20%          | 10 points each, 2 in total   | Individual           |
 | Discussion leading           | 15%          |                              | Group                |
 | Final research-based project | 50%          |                              | Group                |
@@ -140,9 +140,14 @@ In this course, I assign grades based on how well students perform. The grading 
 
 ### Assignment descriptions:
 
-1. **Participation and attendance (10%)**
-  * The participation grade is determined by my impression of a student's (a) productive and consistent contribution to class discussions and activities (e.g., commenting, questioning, relation to own experience), (b) conscientious collaboration with classmates on work inside and outside of class (e.g., shouldering one's fair share of work during group projects, contributing to and being on task during group discussions), and (c) attendance and punctuality.
-  * There is no such thing as an excused absence in this course, expect in instances where documentation from a health professional or university administrator is provided explaning the absence.
+1. **Research interests (5%)**
+  * For this assignment, you will discuss which area(s) or aspect(s) of language and linguistics you are interested in and how these interests can address real-world problems. You may choose to do the following:
+    + First, identify areas of linguistics that fascinate you (e.g., morphology, phonology, syntax, pragmatics, etc.) or language-related topics that pique your interests (e.g., mansplaining in everyday conversation, productivity of English past tense morpheme -*ed*, children learning quantifiers such as *some* and *many*, etc.)
+    + Then, think about issue(s) and/or problem(s) you observe with regard to these topics. For instance, you may notice that people with more authority tend to mansplain regardless of their gender. From a different angle, you may be intrigued by how *man*- words are formed (e.g., *mansplain*, *manspread*, *man purse*, etc.) and would like to find out if English language learners can grasp the meaning of these words.
+    + As you go through these steps, use Google Scholar to find out if your research topics have been investigated by other researchers. In all likelihood, you will not be the first person to come up with these research ideas. Read what has already been done and then refine and/or sharpen your ideas.
+    
+  * This assignment is designed to help you relate your knowledge of linguistics and language to real-world issues (i.e., how language is learned and used in society). This real-world emphasis is what sets applied linguistics apart from other fields of linguistics. List each of your research topic and/or idea in a bullet point and under each point, provide a short description of issues surrounding that particular topic. <span style="color: red;">Keep this assignment within a single page</span>.
+
 
 2. **Two study synopses (20%)**
   * You will be asked to summarize two empirical studies of SLA/Bilingualism that we read throughout the semester, each in a one-page synopsis format. The goals of this assignment are: (a) to help you read with an eye for the underlying structure of the research reports, (b) to help you deepen your understanding of the readings, and (c) hopefully, to foster this kind of synthetic note-taking strategy in other readings that you do for the final project and other readings in class.
