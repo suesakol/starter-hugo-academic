@@ -3,7 +3,7 @@ title: LG 451/456 Applied Linguistics
 type: page
 summary: 'This undergraduate-level course introduces students to the field of applied linguistics and serves as an overview of the diverse areas in which applied linguists are engaged.'
 date: '2022-01-03'
-lastmod: '2022-01-03'
+lastmod: '2022-01-04'
 
 # Optional header image (relative to `assets/media/` folder).
 header:
@@ -30,7 +30,7 @@ header:
 -----
 **Instructor**:       Sakol Suethanapornkul                 <br>
 **Email**:              `suesakol@staff.tu.ac.th`           <br>
-**Office hours**:  T & TH from 1 p.m. to 4 p.m. (or by appointment)    <br>
+**Office hours**:  T & TH from 1 p.m. to 4 p.m.             <br>
 **Room**:             Online Synchronous Sessions via Zoom  <br>
 **Time**:               T 9:30-12:30                        <br>
 **Credits**:           3/48 hours
@@ -43,7 +43,7 @@ header:
 ## Course Description
 ความสัมพันธ์ระหว่างภาษาศาสตร์และศาสตร์อื่นๆ ที่เกี่ยวข้อง อาทิ จิตวิทยาการสื่อสาร การเรียนและการสอนภาษา ความบกพร่องด้านภาษา และการแปล
 
-This course introduces students to the field of applied linguistics. It serves as an overview of the diverse areas in which applied linguists are engaged. The course is divided into three parts, each of which represents a major theme of research in applied linguistics. In the first part, **language in development**, we will survey issues related to second and additional language (L2/Ln) learning in adulthood, bi/multilingualism, and language attrition. Next, we will explore **language in use**, focusing on how applied linguists study language in interaction. In so doing, we will explore topics such as intercultural communication and study abroad. In the third and final section, we will examine **language in society**, with a particular emphasis on issues related to identity, race, and gender, as investigated by applied linguists. We will also consider language policy and language planning. Students will be given an opportunity to make connections between their own research interests and a particular area of applied linguistics through a research-based project.
+This course introduces students to the field of applied linguistics. It serves as an overview of the diverse areas in which applied linguists are engaged. The course is divided into four parts, each of which represents a major theme of research in applied linguistics. In the first part, **language in development**, we will survey issues related to bi/multilingualism and language attrition. Next, we will explore **language in use**, focusing on how applied linguists study language in interaction. In so doing, we will explore topics such as intercultural communication and study abroad. In the third section, we will examine **language in society**, with a particular emphasis on issues related to identity, race, and gender, as investigated by applied linguists. We will also consider language policy and language planning. In the fourth and final section, **language in public life**, we will explore translation and interpreting. Students will be given an opportunity to make connections between their own research interests and a particular area of applied linguistics through a research-based project.
 
 &nbsp;
 
@@ -63,7 +63,7 @@ By the end of this course, you should be able to do the following:
 ## Classroom-based Expectations
 1. **Attend class and participate in class discussions** 
   * Attendance is required at **all** classes.
-  * Participation is crucial to the educational effectiveness of the course.
+  * Participation is crucial to the educational effectiveness of the course and relates to active engagement in all aspects of the class.
   * You are responsible for the materials covered and homework assigned during any absence.
 
 2. **Complete all readings and assignments on time.** 
@@ -72,14 +72,16 @@ By the end of this course, you should be able to do the following:
   * Only in medical or personal emergencies will late work be accepted. Communicate with me early if you anticipate having trouble completing any assignment in a timely manner.
 
 3. **Plagiarism is not tolerated.** 
-  * Plagiarizing other people's work in an assignment results in an automatic zero for that assignment.
+  * Plagiarizing other people's work in an assignment results in an automatic zero **for that assignment**.
 
 4. **Follow APA guidelines for all written assignments.** 
   * The following resources provide helpful information on APA style:
-  * American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th edition). Washington, DC: American Psychological Association.
+  * Book:
+    + American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th edition). Washington, DC: American Psychological Association.
   * Websites:
     + [APA style and grammar guidelines](https://apastyle.apa.org/style-grammar-guidelines)
     + [OWL's APA guidelines](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html)
+    + [Getting started in APA](https://libraryguides.vu.edu.au/apa-referencing/7GettingStarted)
 
 &nbsp;
 
@@ -89,9 +91,9 @@ By the end of this course, you should be able to do the following:
 
 Course management is done through **this course website** and **Microsoft Teams**. You can obtain course materials (syllabus, and slides) from this website. Course readings, assignment submissions, class announcements, and grades will be handled through Teams.
 
-### Textbooks
-1. ABC
-2. DEF
+### Textbook
+1. Wei, L. (2014). *Applied linguistics*. Malden, MA: Wiley Blackwell.
+
 
 &nbsp;
 
@@ -102,12 +104,16 @@ Course management is done through **this course website** and **Microsoft Teams*
 ### Grading scale:
 In this course, I assign grades based on how well students perform. The grading scheme outlines key letter grades:
 
-|   |Grades       |   |  Points              |  |  |Grades       |  |  Points              | 
-|---|:------------|---|:---------------------|--|--|:------------|--|:---------------------|
-|   | A           |   |  85-100%             |  |  | C           |  |  65-69.99            |
-|   | B+          |   |  80-84.99            |  |  | D+          |  |  60-64.99            |
-|   | B           |   |  75-79.99            |  |  | D           |  |  55-59.99            |
-|   | C+          |   |  70-74.99            |  |  | F           |  |  0-54.99             |
+|Grades       |  Points              |Descriptions          | 
+|:------------|:---------------------|:---------------------|
+| A           |  85-100%             |Grade at the A-level indicates an accurate, and nuanced understanding of the concepts and issues covered in the class lectures and readings. It also displays the ability to apply those concepts accurately and coherently in the assignments. A-level work also includes evidence of synthesis of information and insight that goes beyond summarization of the materials. |
+| B+          |  80-84.99            | |
+| B           |  75-79.99            | |
+| C+          |  70-74.99            ||
+| C           |  65-69.99            |
+| D+          |  60-64.99            |
+| D           |  55-59.99            |
+| F           |  0-54.99             |
 
 
 ### Grade breakdown:
@@ -132,8 +138,8 @@ In this course, I assign grades based on how well students perform. The grading 
   * You will be asked to summarize two empirical studies of SLA/Bilingualism that we read throughout the semester, each in a one-page synopsis format. The goals of this assignment are: (a) to help you read with an eye for the underlying structure of the research reports, (b) to help you deepen your understanding of the readings, and (c) hopefully, to foster this kind of synthetic note-taking strategy in other readings that you do for the final project and other readings in class.
   
 3. **In-class quizzes (20%)**
-  * You will complete **three (3) open-book quizzes**, interspersed throughout the semester. Each quiz is designed to assess your understanding of reading materials assigned for that particular week and will take place at the beginning of the class, from 9:30 to 9:45 am. Check the schedule for each quiz. Note that no makeup quiz will be given.
-
+  * You will complete **three (3) open-book quizzes**, interspersed throughout the semester. Each quiz is designed to assess your understanding of reading materials assigned for that particular week and will take place at the beginning of the class, from 9:30 to 9:45 am. Check the schedule for each quiz. Note that no makeup quiz will be given. 
+  
 4. **'Test your vocabulary' (5%)**
   * This is a short assignment to bring to class on Week 9, when we read about vocabulary and memory. You will take a vocabulary test and come to class with your results and be prepared to discuss them.
 
