@@ -140,7 +140,7 @@ In this course, I assign grades based on how well students perform. The grading 
 
 ### Assignment descriptions:
 
-1.**Research interests (5%)**
+1. **Research interests (5%)**
   * For this assignment, you will discuss which area(s) or aspect(s) of language and linguistics you are interested in and how these interests can address real-world problems. You may choose to do the following:
     + First, identify areas of linguistics that fascinate you (e.g., morphology, phonology, syntax, pragmatics, etc.) or language-related topics that pique your interests (e.g., mansplaining in everyday conversation, productivity of English past tense morpheme -*ed*, children learning quantifiers such as *some* and *many*, etc.)
     + Then, think about issue(s) and/or problem(s) you observe with regard to these topics. For instance, you may notice that people with more authority tend to mansplain regardless of their gender. From a different angle, you may be intrigued by how *man*- words are formed (e.g., *mansplain*, *manspread*, *man purse*, etc.) and would like to find out if English language learners can grasp the meaning of these words.
@@ -149,30 +149,34 @@ In this course, I assign grades based on how well students perform. The grading 
   * This assignment is designed to help you relate your knowledge of linguistics and language to real-world issues (i.e., how language is learned and used in society). This real-world emphasis is what sets applied linguistics apart from other fields of linguistics. List each of your research topic and/or idea in a bullet point and under each point, provide a short description of issues surrounding that particular topic. <span style="color: red;">Keep this assignment within a single page</span>.
 
 
-2.**Two study synopses (20%)**
+2. **Two study synopses (20%)**
   * You will summarize 2 empirical studies in applied linguistics that we read throughout the semester, each in **a one-page synopsis format**. The goals of this assignment are: (a) to help you read with an eye for the underlying structure of research reports, (b) to encourage a two-way reading mode, from attention to detail back to a bird's-eye view perspective, (c) to help you deepen your understanding of these readings, and (d) hopefully, to foster this kind of synthetic note-taking strategy in other readings you do for your final project and the rest of readings in class.
   * A study synopsis is almost like an x-ray of a study. It should take up a single, one-sided page. A study synopsis should contain the following sections:
     + theoretical framework
-    + reserach question(s)/purpose
+    + research question(s)/purpose
     + method
     + findings
     + the "so what" of the article (e.g., why the study matters, as stated by the authors)
-    + your own "so what"" after you are done analyzing, evaluating, and summarizing the article
+    + your own "so what" after you are done analyzing, evaluating, and summarizing the article
   
-3. **In-class quizzes (20%)**
-  * You will complete **three (3) open-book quizzes**, interspersed throughout the semester. Each quiz is designed to assess your understanding of reading materials assigned for that particular week and will take place at the beginning of the class, from 9:30 to 9:45 am. Check the schedule for each quiz. Note that no makeup quiz will be given. 
+3. **Discussion leading (15%)**
+  * In groups of five, you will be responsible for leading a class discussion on a chosen topic. This involves: (a) preparing and delivering a presentation that summarizes key points of class readings and; (b) leading a class through some hands-on, data-driven activity. For this assignment, you may choose to do the following:
+    + Prepare a presentation summarizing main points presented by the author(s) (10 slides max).
+    + Prepare 3 to 6 discussion questions to use during your presentation.
+    + Select one empirical study cited in a book chapter/article you facilitate.
+    + Use data/transcripts/activities/excerpts from that study to prepare one activity that highlights or illustrates key observations made in the class readings.
   
-4. **'Test your vocabulary' (5%)**
-  * This is a short assignment to bring to class on Week 9, when we read about vocabulary and memory. You will take a vocabulary test and come to class with your results and be prepared to discuss them.
+  * Your class discussion should cover about 1/3 of class time (1 hour). **The class is not expected to read a study you select in Step 3**, so your hands-on, data-driven activities should be able to stand on their own.
+  
+  * After you sign up on Week 4 (Feb 1), you will be asked to meet with me to discuss your plan for class discussion. One week before your scheduled class, please submit all of the materials you plan to use in class, so I can provide detailed feedback on them.
 
-5. **PsychoPy experiment (15%)**
-  * This assignment is collaborative and should be carried out in groups of three (3) people. You will create a lexical decision task experiment in [PsychoPy](https://www.psychopy.org). This experiment script should contain (a) task instructions, (b) practice session, (c) main task component, and (d) debriefing. You will use this experiment to collect data from your participants and the information you obtain will be reported in your group's final collaborative project. In the second half of the course, we will learn how to build a lexical decision task using PsychoPy Builder.
+4. **Final research based project (50%)**
+  * The research-based project will give you the opportunity to develop your academic research, writing, and presentation skills as you work through the various phases of an inquiry-based project, from the initial idea-generating phase to the final written report and presentation of findings. **Your project can be on any topic in applied linguistics**.
 
-6. **Final collaborative project (35%)**
-  * The final project builds on the PsychoPy experiment assignment; thus, it is necessary that you work with the same group of people. The project will give you the opportunity to develop your academic research and writing skill as you replicate an existing study in SLA. The final project is divided into three smaller parts:
+  * The project is collaborative, that is, it should be carried out in groups of 4-5 people. A fair amount of time and effort will be demanded by the process of formulating a question; deciding what information you require in order to answer it; obtaining and interpreting that information; integrating it with your group members' work; and then drawing conclusions based on all of this. So you are encouraged to start early. To help you complete this assignment in a timely manner, we will divide up the project into four installments.
   
-    * **Project references (5%)**
-      - For this one-page assignment, you will develop a list of references based in part on Supasiraprapa's (2019) study. Your reference list must include two or more articles published since 2019 and contain both theoretical papers in SLA as well as empirical studies. The reference list should conform to APA format and stay within a one-page limit. This assignment will provide the basis of the literature review for your final paper.
+  * **Installment I: Provisional plan (10%)**
+    + In Installment I, you are expected to submit a rough sketch of your research project. This should include:
   
     * **Draft submission of your final project (15%)**
       - By April 21, your group should submit a working draft of the final collaborative project that contains the following:
