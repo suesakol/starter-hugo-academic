@@ -136,6 +136,7 @@ In this course, I assign grades based on how well students perform. The grading 
 |   2. RQs and method          | (10%)        |                              |                      |
 |   3. Interim draft           | (15%)        |                              |                      |
 |   4. Final paper             | (15%)        |                              |                      |
+| Final project presentation   | 10%          |                              | Group                |
 
 
 ### Assignment descriptions:
@@ -177,16 +178,41 @@ In this course, I assign grades based on how well students perform. The grading 
   
   * **Installment I: Provisional plan (10%)**
     + In Installment I, you are expected to submit a rough sketch of your research project. This should include:
-  
-    * **Draft submission of your final project (15%)**
-      - By April 21, your group should submit a working draft of the final collaborative project that contains the following:
-        - A provisional title of your project
-        - A literature review outlining key issues in your replication study
-        - Overarching research question(s)
-        - An outline of the method and results section
+      - a provisional title of your project
+      - an overarching research question
+      - a background to your project (e.g., what has been done thus far on your chosen topic, what you plan to focus on) (~ 2 paragraphs maximum)
+      - a list of references in APA format (4 references per group member)
+      
+  * **Installment II: Research question(s) and method (10%)**
+    + Installment II, is un updated version of Installment I. The focus of this assignment is on research methods. Your draft should thus answer the following questions:
+      - What kind of data will you collect?
+      - How often will you collect this set of data?
+      - Who are you going to collect the data from?
+      - How do you plan to analyze the data?
+      - In what way do the data answer your research questions?
+    + In this installment, you are expected to have specific research questions that you can guide your data collection. Also add any additional information you have for the backgrounf of the study.
     
-    * **Written final submission (15%)**
-      - Excluding references, the final paper should be approximately 6 solid pages. It must be typed in 12-point font and double-spaced with 1-inch margins. All in-text citations and references must follow APA format. The paper should read as a single coherent piece of writing, with tile, an introductory overview, a presentation of method and results, an overall conclusion, and a reference list. Criteria for assessment will be provided later in the course.
+  * **Installment III: Interim draft (15%)**
+    + At this point in the semester, you are expected to have collected some data and/or done some analyses on those data. Thus, in an interim draft, you should include whatever results you have, along with your interpretation and/or discussion of them. It is fine if some parts of the results are still missing or some analyses are not fully refined. However, your presentation of the method should, by this point, be complete.
+  
+  * **Installment IV: Final paper (15%)**
+    + The final paper should be approximately 3 full pages per group member (i.e., 9 pages for a group of 3 and 12 for a group of 4, etc.), excluding references. It must be typed in 12-point font and double-spaced with 1-inch margins. All citations must follow APA format. The paper should read as a coherent piece of writing, with a title, an introductory overview, clearly marked subsections with appropriate segues between them, an overall conclusion, and a reference list.
+    + Criteria for assessment will include the following:
+      - Appropriately narrow topic with a well-defined research question
+      - Quality of information gathered, sufficiency of sources
+      - Clarity of writing (especially when describing studies), with coherent organization and flow
+      - Accuracy, substance, and depth of understanding of the topic investigated
+      - Evidence of both synthesis and analysis; original, critical thinking; and insight in your interpretations
+      - Conclusions that go beyond summarizing
+      - Mechanics, proofreading, and citation of sources
+
+5. **Final presentation (10%)**
+  * Oral presentations on these final projects will take place during the final week of class. The length of each will depend on the number of students in the group and on the total number of presentations in the class.   
+  * Criteria for assessment will include the following:
+    + **Organization/coherence**: how logical is the ordering and sequencing of ideas? Does it all make sense? Do the various points you are making go together in an obvious way?
+    + **Clarity**: How easy is it for the audience to follow the information and points being made?
+    + **Pacing/Timing**: To what extent has time been managed well? Has the time limit been observed?
+    + **Visuals**: How effective are your visual aids (e.g., PowerPoint/Google slides)? Can we read everything easily (e.g., is the text big enough)? Are the slides uncluttered, avoiding excessive amounts of text?
       
 &nbsp;
 
