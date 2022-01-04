@@ -104,12 +104,16 @@ Course management is done through **this course website** and **Microsoft Teams*
 ### Grading scale:
 In this course, I assign grades based on how well students perform. The grading scheme outlines key letter grades:
 
-  * A 85-100% 
+  * A   85-100% 
     + Grade at the A-level indicates an accurate, nuanced understanding of the concepts and issues covered in the class lectures and readings. It also displays the ability to apply those concepts accurately and coherently in the assignments. A-level work also includes evidence of synthesis of information and insight that goes beyond summarization of the materials.
   
-  * B+ 80-84.99
-  * B  75-79.99 
+  * B+ 80-84.99
+  * B   75-79.99 
     + Grades at the B-level indicate accurate understanding of the concepts and issues covered in the class lectures and readings, although there may be some minor errors, omissions, or misunderstandings. They indicate some ability to apply concepts accurately and coherently in the assignments, but answers may not be comprehensive or well-organized. B-level work represents the ability to summarize the arguments and issues presented through course materials, but may lack independent analysis or synthesis.
+  
+  * C+ 70-74.99
+  * C   65-69.99
+    + Grades at the C-level indicate a fairly accurate and/or incomplete understanding of the concepts and issues covered in class lectures and readings, with some major and minor errors or omissions concerning basic information. They indicate little ability to apply concepts accurately and coherently in the assignments, and generally lack organization and depth.
 
 
 
