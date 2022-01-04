@@ -224,8 +224,7 @@ In this course, I assign grades based on how well students perform. The grading 
 |----- |:---------|:----------:|:-------------------------------------|---------------|------------------------------- |
 |  1   | 01/11/22 |            | Introduction to the course <br>                                                                                                [{{% staticref "467LC_2021/Slides/LG467.pdf" %}}Introduction{{% /staticref %}}]                                                                                     |               |                                |
 |  2   | 01/18/22 |            | Defining applied linguistics         | Wei (Ch.1; 1.2-1.3)                                                                                                                          |                                |
-| Topic 1: | Language in development |                                |               |                                |
-| 3    | 01/25/22 |            |  Bi/multilingualism                  | de Bot (2019) | Submit a **research interests**                                                                                                assignment                     |
+| 3    | 01/25/22 |            | Topics 1: Language in development <br>                                                                                         Bi/multilingualism                  | de Bot (2019) | Submit a **research interests**                                                                                                assignment                     |
 
 :heavy_check_mark:
 
