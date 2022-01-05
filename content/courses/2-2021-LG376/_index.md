@@ -158,7 +158,7 @@ In this course, I assign grades based on how well students perform. The grading 
         - An outline of the method and results section
     
     * **Written final submission (15%)**
-      - Excluding references, the final paper should be approximately **6 pages**. It must be typed in 12-point font and double-spaced with 1-inch margins. All in-text citations and references must follow APA format. The paper should read as a single coherent piece of writing, with tile, an introductory overview, a presentation of method and results, an overall conclusion, and a reference list. Criteria for assessment will be provided later in the course.
+      - Excluding references, the final paper should be approximately **6 pages**. It must be typed in 12-point font and double-spaced with 1-inch margins. All in-text citations and references must follow APA format. The paper should read as a single coherent piece of writing, with title, an introductory overview, a presentation of method and results, an overall conclusion, and a reference list. Criteria for assessment will be provided later in the course.
       
 &nbsp;
 
