@@ -94,8 +94,15 @@ By the end of this course, you should be able to do the following:
 Course management is done through **this course website** and **Microsoft Teams**. You can obtain course materials (syllabus, and slides) from this website. Course readings, assignment submissions, class announcements, and grades will be handled through Teams.
 
 ### Textbooks
-1. Ortega, L. (Revised version). *Understanding second language acquisition*. [**USLA** for short]
-2. De Houwer, A. (2021). *Bilingual development in childhood*. Cambridge: Cambridge University Press [**BDC** for short]
+
+Ortega, L. (Revised version). *Understanding second language acquisition*. [**USLA** for short]
+
+<!--1. Ortega, L. (Revised version). *Understanding second language acquisition*. [**USLA** for short]
+2. De Houwer, A. (2021). *Bilingual development in childhood*. Cambridge: Cambridge University Press [**BDC** for short]-->
+
+The following readings will also be used in class:
+
+De Houwer, A. (2020). Early bilingualism. In A. Chapelle (Ed.) *The concise encyclopedia of applied linguistics* (pp. 405--413). Wiley Blackwell.
 
 &nbsp;
 
@@ -168,10 +175,10 @@ In this course, I assign grades based on how well students perform. The grading 
 
 |Weeks |  Dates       | Topics                               | Readings    | Assignments                          |
 |----- |:------------:|:-------------------------------------|-------------|-------------------------------       |
-|  1   | 01/13/22     | Introduction to the course <br>                                                                                                [{{% staticref "467LC_2021/Slides/LG467.pdf" %}}Introduction{{% /staticref %}}]                                                                                     |             |                                      |
-|  2   | 01/20/22     | (Re-)examining SLA                   | Ortega (2013; 8-12) <br>                                                                                                       BDC (1-3; 6-7)                                                                                                                             |                                      |
-|  3   | 01/27/22     | Age                                  | USLA (Sec. 2.1, 2.3, 2.4) <br>                                                                                                 Ioup et al. (1994)                                                                                                                         | [Study synopsis practice]            |
-|  4   | 02/03/22     | Crosslinguistic influence [1]        | USLA (Sec. 3.1-3.4)                                                                                                                        | **Quiz 1** at start of class         |
+|  1   | 01/13/22     | Introduction to the course <br>                                                                                                [{{% staticref "376SLA/SL/LG376-1.pdf" %}}Class 1{{% /staticref %}}] <br>                                                      [{{% staticref "376SLA/WSH/Worksheet1.pdf" %}}Worksheet 1{{% /staticref %}}]                                                                                        |             |                                      |
+|  2   | 01/20/22     | Defining SLA and its target          | USLA (1.1, 1.3--1.5) <br>                                                                                                      De Houwer (2020, p.405--407)                                                                                                               |                                      |
+|  3   | 01/27/22     | Age [1]                              | USLA (Sec. 2.1, 2.3, 2.4) <br>                                                                                                 Ioup et al. (1994)                                                                                                                         | [Study synopsis practice]            |
+|  4   | 02/03/22     | Age [2] <br>                                                                                                                   Crosslinguistic influence [1]        | USLA (Sec. 3.1-3.4)                                                                                                                        | **Quiz 1** at start of class         |
 |  5   | 02/10/22     | Crosslinguistic influence [2]        | USLA (Sec. 3.6-3.9; 3.11-3.12)                                                                                                             |                                      |
 |  6   | 02/17/22     | Linguistic environment [1]           | USLA (Sec. 4.1; 4.3-4.6)                                                                                                                   | **Quiz 2** at start of class         |
 |  7   | 02/24/22     | Linguistic environment [2]           | De Houwer (2014) <br>                                                                                                          Supasiraprapa (2019)                                                                                                                       | **Synopsis 1**: Supasiraprapa (2019) |
