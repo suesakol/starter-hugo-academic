@@ -102,7 +102,7 @@ Ortega, L. (Revised version). *Understanding second language acquisition*. [**US
 
 The following readings will also be used in class:
 
-De Houwer, A. (2020). Early bilingualism. In A. Chapelle (Ed.) *The concise encyclopedia of applied linguistics* (pp. 405--413). Wiley Blackwell.
+De Houwer, A. (2020). Early bilingualism. In C.A. Chapelle (Ed.) *The concise encyclopedia of applied linguistics* (pp. 405--413). Wiley Blackwell.
 
 &nbsp;
 
@@ -173,9 +173,9 @@ In this course, I assign grades based on how well students perform. The grading 
 
 ## Class Schedule
 
-|Weeks |  Dates       | Topics                               | Readings    | Assignments                          |
-|----- |:------------:|:-------------------------------------|-------------|-------------------------------       |
-|  1   | 01/13/22     | Introduction to the course <br>                                                                                                [{{% staticref "376SLA/SL/LG376-1.pdf" %}}Class 1{{% /staticref %}}, {{% staticref                                             "376SLA/WSH/Worksheet1.pdf" %}}Worksheet 1{{% /staticref %}}]                                                                                                       |             |                                      |
+|Weeks |  Dates       | Topics                               | Readings          | Assignments                          |
+|----- |:------------:|:-------------------------------------|-------------------|-------------------------------       |
+|  1   | 01/13/22     | Introduction to the course <br>                                                                                                [{{% staticref "376SLA/SL/LG376-1.pdf" %}}Class 1{{% /staticref %}}, {{% staticref                                             "376SLA/WSH/Worksheet1.pdf" %}}Worksheet 1{{% /staticref %}}]                                                                                                       |                   |                                      |
 |  2   | 01/20/22     | Defining SLA                         | USLA (1.1, 1.3--1.5) <br>                                                                                                      De Houwer (2020, p.405--407)                                                                                                               |                                      |
 |  3   | 01/27/22     | Age [1]                              | USLA (Sec. 2.1, 2.3, 2.4) <br>                                                                                                 Ioup et al. (1994)                                                                                                                         | [Study synopsis practice]            |
 |  4   | 02/03/22     | Age [2] <br>                                                                                                                   Crosslinguistic influence [1]        | USLA (Sec. 3.1-3.4)                                                                                                                        | **Quiz 1** at start of class         |
