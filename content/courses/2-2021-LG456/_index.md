@@ -95,6 +95,10 @@ Course management is done through **this course website** and **Microsoft Teams*
 1. Wei, L. (2014). *Applied linguistics*. Malden, MA: Wiley Blackwell. (or **Wei** in class schedule)
 
 
+The following readings will also be used in class:
+
+Ortega, L. (2011). Second language acquisition. In J. Simpson (Ed.) *The routledge handbook of applied linguistics* (pp. 171--184). Routledge.
+
 &nbsp;
 
 
@@ -224,9 +228,9 @@ In this course, I assign grades based on how well students perform. The grading 
 |----- |:---------|:----------:|:-------------------------------------|---------------|------------------------------- |
 |  1   | 01/11/22 |            | Introduction to the course <br>                                                                                                [{{% staticref "456AL/SL/LG456-1.pdf" "newtab"%}}Class 1{{% /staticref %}}]                                                                                         |               |                                |
 |  2   | 01/18/22 |            | Defining applied linguistics         | Wei Ch. 1 <br> (Sec.1.2--1.3)                                                                                                                |                                |
-|  3   | 01/25/22 |            | Bi/multilingualism                   | de Bot (2019) | Submit a **research interests**                                                                                                assignment                     |
-|  4   | 02/01/22 |            | Language and the brain               | Wei (Ch.4)    | Sign up for **discussion leading**                                                                                                                            |
-|  5   | 02/08/22 |            | Language attrition                   | Ahlsen (2013) <br>                                                                                                             Ahn et al. (2017) | Skim Ahn et al. (2017) [study synopsis model]                                                                                                                           |
+|  3   | 01/25/22 |            | SLA                                  | Ortega (2011) <br> (pp. 171--178)                                                                                                            | Submit a **research interests**                                                                                                assignment                     |
+|  4   | 02/01/22 |            | Bilingualism & cognition             | De Groot (2020)| Sign up for **discussion leading**                                                                                                                           |
+|  5   | 02/08/22 |            | Language attrition                   | Ahlsen (2013) <br>                                                                                                             Ahn et al. (2017) | Skim Ahn et al. (2017); I will                                                                                                 model a synopsis in class                                                                                                                                 |
 |  6   | 02/15/22 |            | Research method #1                   | Wong et al (2018)                                                                                                                            | Submit 1st **study synopsis**  |
 |  7   | 02/22/22 | :heavy_check_mark:                                                                                                                        | Language in interaction              | Wei (Ch.5)    | **Installment I** of your final project                                                                                         is due                         |
 |  8   | 03/01/22 |            | Mid-term examination week            |               |                                |
