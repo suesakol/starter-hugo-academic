@@ -97,6 +97,7 @@ Course management is done through **this course website** and **Microsoft Teams*
 
 The following readings will also be used in class:
 
+De Groot, A. M. B. (2020). Bilingualism and cognition. In C.A. Chapelle (Ed.) *The concise encyclopedia of applied linguistics* (pp. 157--165). Wiley Blackwell.
 Ortega, L. (2011). Second language acquisition. In J. Simpson (Ed.) *The routledge handbook of applied linguistics* (pp. 171--184). Routledge.
 
 &nbsp;
