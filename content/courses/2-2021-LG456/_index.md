@@ -92,7 +92,7 @@ By the end of this course, you should be able to do the following:
 Course management is done through **this course website** and **Microsoft Teams**. You can obtain course materials (syllabus, and slides) from this website. Course readings, assignment submissions, class announcements, and grades will be handled through Teams.
 
 ### Textbook
-1. Wei, L. (2014). *Applied linguistics*. Malden, MA: Wiley Blackwell.
+1. Wei, L. (2014). *Applied linguistics*. Malden, MA: Wiley Blackwell. (or **Wei** in class schedule)
 
 
 &nbsp;
@@ -222,7 +222,7 @@ In this course, I assign grades based on how well students perform. The grading 
 
 |Weeks |  Dates   | :mega:     | Topics                               | Readings      | Assignments                    |
 |----- |:---------|:----------:|:-------------------------------------|---------------|------------------------------- |
-|  1   | 01/11/22 |            | Introduction to the course <br>                                                                                                [{{% staticref "467LC_2021/Slides/LG467.pdf" %}}Introduction{{% /staticref %}}]                                                                                     |               |                                |
+|  1   | 01/11/22 |            | Introduction to the course <br>                                                                                                [{{% staticref "456AL/SL/LG456-1.pdf" "newtab"%}}Class 1{{% /staticref %}}]                                                                                         |               |                                |
 |  2   | 01/18/22 |            | Defining applied linguistics         | Wei (Ch.1; 1.2-1.3)                                                                                                                          |                                |
 |  3   | 01/25/22 |            | Bi/multilingualism                   | de Bot (2019) | Submit a **research interests**                                                                                                assignment                     |
 |  4   | 02/01/22 |            | Language and the brain               | Wei (Ch.4)    | Sign up for **discussion leading**                                                                                                                            |
