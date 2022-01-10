@@ -35,7 +35,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:suesakol@staff.tu.ac.th"
+  link: mailto:suesakol@tu.ac.th"
 
 - icon: github
   icon_pack: fab
