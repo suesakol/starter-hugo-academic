@@ -244,4 +244,34 @@ In this course, I assign grades based on how well students perform. The grading 
 |  15  | 04/19/22 |            | Research method # 3                  | Subtirelu (2017) |  Submit 2nd **study synopsis** |
 |  16  | 04/26/22 | :heavy_check_mark:                                                                                                                        | Translation and interpreting         | Wei (Ch.13)   |                                |
 |  17  | 05/03/22 |            | Final project presentation           |               | Hand in **Installment IV** on 05/12  |
+      
+&nbsp;
 
+
+
+## Resources
+You should also consult specialized research journals early in the process of developing your final research project, including:
+
+* Main journals that publish SLA research, in alphabetical order:
+  + Language Learning
+  + Modern Language Journal
+  + Second Language Research
+  + Studies in Second Language Acquisition; 
+
+* Main journals in applied linguistics:
+  + Applied Linguistics
+  + Canadian Modern Language Review
+  + International Journal of Applied Linguistics
+  + International Review of Applied Linguistics
+  + Language Learning & Technology (open access online: [here](https://www.lltjournal.org))
+  + Language Teaching Research
+  + System
+  + TESOL Quarterly
+
+* Two applied linguistics journals are devoted to in-depth reviews of research areas:
+  + Annual Review of Applied Linguistics
+  + Language Teaching
+  
+* Two particularly useful research and bibliographical resources are:
+  + The sections called **Research Timeline** published annually in *Language Teaching*
+  + The encyclopedia of applied linguistics, edited by Carol A. Chapelle and published by Wiley-Blackwell.
