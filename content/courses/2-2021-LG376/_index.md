@@ -104,6 +104,9 @@ The following readings will also be used in class:
 
 De Houwer, A. (2020). Early bilingualism. In C.A. Chapelle (Ed.) *The concise encyclopedia of applied linguistics* (pp. 405--413). Wiley Blackwell.
 
+Ioup, G., Boustagoui, E., Tigi, M., & Moselle, M. (1994). Reexamining the critical period hypothesis: A case of successful adult SLA in a naturalistic environment. *Studies in Second Language Acquisition*, *16*, 73--98.
+
+
 &nbsp;
 
 
