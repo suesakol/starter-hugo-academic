@@ -103,6 +103,8 @@ De Groot, A. M. B. (2020). Bilingualism and cognition. In C.A. Chapelle (Ed.) *T
 
 Ortega, L. (2011). Second language acquisition. In J. Simpson (Ed.) *The routledge handbook of applied linguistics* (pp. 171--184). Routledge.
 
+Tullock, B. (2021). Encountering multilingualism in study abroad: Sojourners' orientations to linguistic diversity and language hierarchies in Barcelona. In W. Diao & E. Trentman (Eds.), *Language learning in study abroad: The multilingual turn* (pp. 190--212). Multilingual Matters.
+
 Wong, M. H. I., Zhao, H., & MacWhinney, B. (2018). A cognitive linguistics application for second language pedagogy: The English preposition tutor. *Language Learning*, *68*, 438--468. 
 
 &nbsp;
@@ -240,7 +242,7 @@ In this course, I assign grades based on how well students perform. The grading 
 |  6   | 02/15/22 |            | Research method #1 <br>                                                                                                        [{{% staticref "456AL/SL/LG456-6.pdf" "newtab" %}}Class 6{{% /staticref %}}]                                                                                        | Wong et al. (2018)                                                                                                                           | Submit 1st **study synopsis**  |
 |  7   | 02/22/22 | :heavy_check_mark:                                                                                                                        | Language in interaction <br>                                                                                                   [{{% staticref "456AL/SL/LG456-7.pdf" "newtab" %}}Class 7{{% /staticref %}}]                                                                                        | Wei (Ch.5)    | **Installment I** of your final project                                                                                         is due                         |
 |  8   | 03/01/22 |            | Mid-term examination week            |               |                                |
-|  9   | 03/08/22 |            | Study abroad <br>                                                                                                              Guest lectured by Dr. Brandon Tullock| Tullock (2021)|                                |
+|  9   | 03/08/22 |            | Study abroad <br>                                                                                                              Guest lectured by Dr. Brandon Tullock <br>                                                                                     [{{% staticref "456AL/SL/LG456-9.pdf" "newtab" %}}Class 9{{% /staticref %}}]                                                                                        | Tullock (2021)|                                |
 |  10  | 03/15/22 | :heavy_check_mark:                                                                                                                        | Intercultural communication          | Wei (Ch.6)    |                                | 
 |  11  | 03/22/22 |            | Research method # 2                  |               | **Installment II** of your final                                                                                               project is due                 |
 |  12  | 03/29/22 | :heavy_check_mark:                                                                                                                        | Language, identity, and power        | Wei (Ch.9)    |                                |
