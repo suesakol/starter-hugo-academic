@@ -103,7 +103,7 @@ De Groot, A. M. B. (2020). Bilingualism and cognition. In C.A. Chapelle (Ed.) *T
 
 Ortega, L. (2011). Second language acquisition. In J. Simpson (Ed.) *The routledge handbook of applied linguistics* (pp. 171--184). Routledge.
 
-Tullock, B. (2021). Encountering multilingualism in study abroad: Sojourners' orientations to linguistic diversity and language hierarchies in Barcelona. In W. Diao & E. Trentman (Eds.), *Language learning in study abroad: The multilingual turn* (pp. 190--212). Multilingual Matters.
+Tullock, B. (2021). Encountering multilingualism in study abroad: Sojourners' orientations to linguistic diversity and language hierarchies in Barcelona. In W. Diao & E. Trentman (Eds.), *Language learning in study abroad: The multilingual turn* (pp. 190--212). Multilingual Matters
 
 Wong, M. H. I., Zhao, H., & MacWhinney, B. (2018). A cognitive linguistics application for second language pedagogy: The English preposition tutor. *Language Learning*, *68*, 438--468. 
 
