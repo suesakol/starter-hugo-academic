@@ -192,8 +192,8 @@ In this course, I assign grades based on how well students perform. The grading 
 |  12  | 03/31/22     | Learner language [1] <br>                                                                                                      PsychoPy [2]                         |             | Turn in **Reference list**           |
 |  13  | 04/07/22     | Learner language [2]                 |             | **Synopsis 2**: <br>                                                                                                           Turn in **PsychoPy Experiment**      |
 |  14  | 04/14/22     | Songkran Holiday week                |             |                                      |
-|  15  | 04/21/22     | Affect [1]                           |             | Turn in **draft submission of final paper**                                                                                                                         |
-|  16  | 04/28/22     | Affect [2]                           |             |                                      |
+|  15  | 04/21/22     | Affec                                |             | Turn in **draft submission of final paper**                                                                                                                         |
+|  16  | 04/28/22     | Social context                       |             |                                      |
 |  17  | 05/05/22     | Course wrap-up                       |             | Turn in **final paper** on 05/15     |
 
 
