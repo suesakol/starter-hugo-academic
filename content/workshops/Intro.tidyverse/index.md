@@ -4,7 +4,14 @@ headless: false
 active: true
 view: 3
 
-title: "R for Data Science"
-summary: An introduction to R
+title: "Data Wrangling with Tidyverse"
+summary: An introduction to R and Tidyverse with an emphasis on data wrangling
 ---
-Welcome to the page!
+
+
+## Datasets
+
+Statistical Performance Indication (data modified from the World Bank): [{{% staticref "Workshop/R.data/spi_modified.csv" "newtab" %}}csv{{% /staticref %}}]
+
+
+## Workshop videos
