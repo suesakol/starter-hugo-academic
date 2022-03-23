@@ -11,7 +11,7 @@ header:
   image: ""
 ---
 
-
+This nine-hour workshop focuses on most commonly used elements in the **Tidyverse** package for exploratory data analysis. We cover the basics of R and learn how to import and process data using a suite of functions from the `readr` and `dplyr` packages. The workshop is conducted in Thai. 
 
 ## Datasets
 The following datasets are used in the workshop. Please note that these datasets are modified from original sources. To download each dataset, right click on **csv** and select "Download Linked File" on Mac. For more information about each dataset, follow the links provided in the **source**.
@@ -21,3 +21,7 @@ The following datasets are used in the workshop. Please note that these datasets
 
 
 ## Workshop videos
+
+
+
+{{< figure src = "poster.jpg"}}
