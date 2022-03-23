@@ -11,7 +11,8 @@ header:
   image: ""
 ---
 
-This nine-hour workshop focuses on most commonly used elements in the **Tidyverse** package for exploratory data analysis. We cover the basics of R and learn how to import and process data using a suite of functions from the `readr` and `dplyr` packages. The workshop is conducted in Thai. 
+This three-day virtual workshop focuses on most commonly used elements in the `Tidyverse` package for exploratory data analysis. The workshop is designed for those who have no background in programming but would like to take advantage of R for data wrangling. Attendees are led through a series of hands-on activities that cover R and `Tidyverse` basics. The workshop is designed to help attendees gain a foothold in R and make use of existing functions from the `readr` and `dplyr` packages. The workshop is conducted in Thai. It is offered virtually via Zoom on March 18 and 25 and April 1, 2022. 
+
 
 ## Datasets
 The following datasets are used in the workshop. Please note that these datasets are modified from original sources. To download each dataset, right click on **csv** and select "Download Linked File" on Mac. For more information about each dataset, follow the links provided in the **source**.
