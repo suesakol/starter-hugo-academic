@@ -21,7 +21,3 @@ The following datasets are used in the workshop. Please note that these datasets
 
 
 ## Workshop videos
-
-
-
-{{< figure src = "poster.jpg"}}
