@@ -25,6 +25,11 @@ The following datasets are used in the workshop. Please note that these datasets
 
 
 ## 3. Workshop videos
+
+### Class 2 (March 25, 2022)
+Topics covered: Principles of tidy data, Importing spreadsheet files into R, and `select()`
+
+Part I:
 {{< video src="Class2_1.mp4" controls="yes" >}}
 
 
