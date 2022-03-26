@@ -25,6 +25,7 @@ The following datasets are used in the workshop. Please note that these datasets
 
 
 ## 3. Workshop videos
+{{< video src="./videos/Class2-1.mp4" control="yes" >}}
 
 
 
