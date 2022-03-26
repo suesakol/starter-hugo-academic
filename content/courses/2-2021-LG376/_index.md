@@ -102,13 +102,10 @@ Ortega, L. (Revised version). *Understanding second language acquisition*. [**US
 
 The following readings will also be used in class:
 
-De Houwer, A. (2020). Early bilingualism. In C.A. Chapelle (Ed.) *The concise encyclopedia of applied linguistics* (pp. 405--413). Wiley Blackwell.
-
-Ioup, G., Boustagoui, E., Tigi, M., & Moselle, M. (1994). Reexamining the critical period hypothesis: A case of successful adult SLA in a naturalistic environment. *Studies in Second Language Acquisition*, *16*, 73--98.
-
-Supasiraprapa, S. (2019). Frequency effects on first and second language compositional phrase comprehension and production. *Applied Psycholinguistics*, *40*, 987--1017.
-
-Thompson, A. S., & Vasquez, C. (2015). Exploring motivational profiles through language learning narratives. *Modern Language Journal*, *99*, 158--174.
+- De Houwer, A. (2020). Early bilingualism. In C.A. Chapelle (Ed.) *The concise encyclopedia of applied linguistics* (pp. 405--413). Wiley Blackwell.
+- Ioup, G., Boustagoui, E., Tigi, M., & Moselle, M. (1994). Reexamining the critical period hypothesis: A case of successful adult SLA in a naturalistic environment. *Studies in Second Language Acquisition*, *16*, 73--98.
+- Supasiraprapa, S. (2019). Frequency effects on first and second language compositional phrase comprehension and production. *Applied Psycholinguistics*, *40*, 987--1017.
+- Thompson, A. S., & Vasquez, C. (2015). Exploring motivational profiles through language learning narratives. *Modern Language Journal*, *99*, 158--174.
 
 &nbsp;
 
