@@ -37,8 +37,16 @@ Part I:
 Part II:
 {{< video src="Class2_2.mp4" controls="yes" >}}
 
+
 Part III:
 {{< video src="Class2_3.mp4" controls="yes" >}}
+
+
+Part IV:
+{{< video src="Class2_4.mp4" controls="yes" >}}
+
+
+&nbsp;
 
 
 {{< figure src="poster.jpg" numbered="false" >}}
