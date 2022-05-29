@@ -48,5 +48,14 @@ Part IV:
 
 &nbsp;
 
+### Class 3 (April 1, 2022)
+
+**Topics covered**: `select()`, `relocate()`, `filter()`
+
+Part I:
+{{< video src="Class3_1.mp4" controls="yes" >}}
+
+
+
 
 {{< figure src="poster.jpg" numbered="false" >}}
