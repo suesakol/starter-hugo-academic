@@ -62,7 +62,7 @@ Part III:
 {{< video src="Class3_3.mp4" controls="yes" >}}
 
 Part IV:
-
+{{< video src="Class3_4.mp4" controls="yes" >}}
 
 
 &nbsp;
