@@ -55,6 +55,8 @@ Part IV:
 Part I:
 {{< video src="Class3_1.mp4" controls="yes" >}}
 
+Part II:
+{{< video src="Class3_2.mp4" controls="yes" >}}
 
 
 
